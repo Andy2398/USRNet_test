@@ -63,7 +63,8 @@ def main():
     model_name = 'usrnet'      # 'usrgan' | 'usrnet' | 'usrgan_tiny' | 'usrnet_tiny'
     testset_name = 'set_real'  # test set,  'set_real'
 #     test_image = 'chip.png'    # 'chip.png', 'comic.png'
-    test_image = 'comic.png'
+    # test_image = 'comic.png'
+    test_image = 'generate.png'
 
     sf = 4                     # scale factor, only from {1, 2, 3, 4}
     show_img = False           # default: False

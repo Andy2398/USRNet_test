@@ -128,3 +128,8 @@
 20-06-26 14:49:29.269 : model_name:usrnet, image sigma:2
 20-06-26 14:49:29.269 : testsets/set_real
 20-06-26 14:49:29.276 :  comic.png--> ( 361x250 )
+20-06-26 16:01:20.334 : Params number: 17016016
+20-06-26 16:01:21.634 : Model path: model_zoo/usrnet.pth
+20-06-26 16:01:21.634 : model_name:usrnet, image sigma:2
+20-06-26 16:01:21.634 : testsets/set_real
+20-06-26 16:01:21.644 :  comic.png--> ( 361x250 )

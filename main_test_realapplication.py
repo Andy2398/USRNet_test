@@ -60,12 +60,12 @@ def main():
     # ----------------------------------------
     # Preparation
     # ----------------------------------------
-    model_name = 'usrgan'      # 'usrgan' | 'usrnet' | 'usrgan_tiny' | 'usrnet_tiny'
+    model_name = 'usrnet'      # 'usrgan' | 'usrnet' | 'usrgan_tiny' | 'usrnet_tiny'
     testset_name = 'set_real'  # test set,  'set_real'
-    test_image = 'chip.png'    # 'chip.png', 'comic.png'
-    # test_image = 'comic.png'
+#     test_image = 'chip.png'    # 'chip.png', 'comic.png'
+    test_image = 'comic.png'
 
-    sf = 3                     # scale factor, only from {1, 2, 3, 4}
+    sf = 4                     # scale factor, only from {1, 2, 3, 4}
     show_img = False           # default: False
     save_E = True              # save estimated image
     save_LE = True             # save zoomed LR, Estimated images

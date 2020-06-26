@@ -1,0 +1,130 @@
+20-06-26 12:23:55.082 : Params number: 17016016
+20-06-26 12:23:55.082 : Model path: model_zoo/usrnet.pth
+20-06-26 12:23:55.083 : model_name:usrnet, image sigma:15
+20-06-26 12:23:55.083 : testsets/set_real
+20-06-26 12:23:55.085 :   chip.png--> (  52x108 )
+20-06-26 12:34:19.599 : Params number: 17016016
+20-06-26 12:34:19.600 : Model path: model_zoo/usrnet.pth
+20-06-26 12:34:19.600 : model_name:usrnet, image sigma:2
+20-06-26 12:34:19.600 : testsets/set_real
+20-06-26 12:34:19.606 :  comic.png--> ( 361x250 )
+20-06-26 12:38:50.047 : Params number: 17016016
+20-06-26 12:38:50.048 : Model path: model_zoo/usrnet.pth
+20-06-26 12:38:50.048 : model_name:usrnet, image sigma:2
+20-06-26 12:38:50.048 : testsets/set_real
+20-06-26 12:38:59.014 :  comic.png--> ( 361x250 )
+20-06-26 12:40:07.320 : Params number: 17016016
+20-06-26 12:40:07.321 : Model path: model_zoo/usrnet.pth
+20-06-26 12:40:07.321 : model_name:usrnet, image sigma:2
+20-06-26 12:40:07.321 : testsets/set_real
+20-06-26 12:40:10.994 :  comic.png--> ( 361x250 )
+20-06-26 12:41:13.491 : Params number: 17016016
+20-06-26 12:41:13.492 : Model path: model_zoo/usrnet.pth
+20-06-26 12:41:13.492 : model_name:usrnet, image sigma:2
+20-06-26 12:41:13.492 : testsets/set_real
+20-06-26 12:41:24.031 :  comic.png--> ( 361x250 )
+20-06-26 12:46:35.074 : Params number: 17016016
+20-06-26 12:46:35.075 : Model path: model_zoo/usrnet.pth
+20-06-26 12:46:35.075 : model_name:usrnet, image sigma:15
+20-06-26 12:46:35.075 : testsets/set_real
+20-06-26 12:46:35.971 :   chip.png--> (  52x108 )
+20-06-26 13:05:48.183 : Params number: 17016016
+20-06-26 13:05:48.184 : Model path: model_zoo/usrnet.pth
+20-06-26 13:05:48.184 : model_name:usrnet, image sigma:15
+20-06-26 13:05:48.184 : testsets/set_real
+20-06-26 13:05:49.706 :   chip.png--> (  52x108 )
+20-06-26 13:06:09.452 : Params number: 17016016
+20-06-26 13:06:09.452 : Model path: model_zoo/usrnet.pth
+20-06-26 13:06:09.452 : model_name:usrnet, image sigma:2
+20-06-26 13:06:09.452 : testsets/set_real
+20-06-26 13:06:10.508 :  comic.png--> ( 361x250 )
+20-06-26 13:06:36.422 : Params number: 17016016
+20-06-26 13:06:36.423 : Model path: model_zoo/usrnet.pth
+20-06-26 13:06:36.423 : model_name:usrnet, image sigma:15
+20-06-26 13:06:36.423 : testsets/set_real
+20-06-26 13:06:39.871 :   chip.png--> (  52x108 )
+20-06-26 13:06:59.637 : Params number: 17016016
+20-06-26 13:06:59.638 : Model path: model_zoo/usrnet.pth
+20-06-26 13:06:59.638 : model_name:usrnet, image sigma:0
+20-06-26 13:06:59.638 : testsets/set_real
+20-06-26 13:07:00.481 :   chip.png--> (  52x108 )
+20-06-26 13:27:29.490 : Params number: 17016016
+20-06-26 13:27:29.492 : Model path: model_zoo/usrnet.pth
+20-06-26 13:27:29.492 : model_name:usrnet, image sigma:15
+20-06-26 13:27:29.492 : testsets/set_real
+20-06-26 13:27:29.493 :   chip.png--> (  52x108 )
+20-06-26 13:27:43.236 : Params number: 17016016
+20-06-26 13:27:43.237 : Model path: model_zoo/usrnet.pth
+20-06-26 13:27:43.237 : model_name:usrnet, image sigma:15
+20-06-26 13:27:43.237 : testsets/set_real
+20-06-26 13:27:43.238 :   chip.png--> (  52x108 )
+20-06-26 13:27:59.417 : Params number: 17016016
+20-06-26 13:27:59.418 : Model path: model_zoo/usrnet.pth
+20-06-26 13:27:59.418 : model_name:usrnet, image sigma:15
+20-06-26 13:27:59.418 : testsets/set_real
+20-06-26 13:28:00.589 :   chip.png--> (  52x108 )
+20-06-26 13:29:26.613 : Params number: 17016016
+20-06-26 13:29:26.613 : Model path: model_zoo/usrnet.pth
+20-06-26 13:29:26.613 : model_name:usrnet, image sigma:15
+20-06-26 13:29:26.613 : testsets/set_real
+20-06-26 13:29:40.373 :   chip.png--> (  52x108 )
+20-06-26 13:30:27.722 : Params number: 17016016
+20-06-26 13:30:27.723 : Model path: model_zoo/usrnet.pth
+20-06-26 13:30:27.723 : model_name:usrnet, image sigma:15
+20-06-26 13:30:27.723 : testsets/set_real
+20-06-26 13:30:28.522 :   chip.png--> (  52x108 )
+20-06-26 13:32:26.335 : Params number: 17016016
+20-06-26 13:32:26.336 : Model path: model_zoo/usrnet.pth
+20-06-26 13:32:26.336 : model_name:usrnet, image sigma:2
+20-06-26 13:32:26.336 : testsets/set_real
+20-06-26 13:32:27.069 :   chip.png--> (  52x108 )
+20-06-26 14:05:28.886 : Params number: 17016016
+20-06-26 14:05:28.887 : Model path: model_zoo/usrnet.pth
+20-06-26 14:05:28.887 : model_name:usrnet, image sigma:15
+20-06-26 14:05:28.887 : testsets/set_real
+20-06-26 14:06:38.608 :   chip.png--> (  52x108 )
+20-06-26 14:07:04.732 : Params number: 17016016
+20-06-26 14:07:04.734 : Model path: model_zoo/usrnet.pth
+20-06-26 14:07:04.734 : model_name:usrnet, image sigma:15
+20-06-26 14:07:04.734 : testsets/set_real
+20-06-26 14:07:05.740 :   chip.png--> (  52x108 )
+20-06-26 14:19:26.129 : Params number: 17016016
+20-06-26 14:19:26.129 : Model path: model_zoo/usrnet.pth
+20-06-26 14:19:26.130 : model_name:usrnet, image sigma:15
+20-06-26 14:19:26.130 : testsets/set_real
+20-06-26 14:19:27.031 :   chip.png--> (  52x108 )
+20-06-26 14:20:03.619 : Params number: 17016016
+20-06-26 14:20:03.620 : Model path: model_zoo/usrnet.pth
+20-06-26 14:20:03.620 : model_name:usrnet, image sigma:2
+20-06-26 14:20:03.620 : testsets/set_real
+20-06-26 14:20:04.346 :  comic.png--> ( 361x250 )
+20-06-26 14:28:53.495 : Params number: 17016016
+20-06-26 14:28:53.496 : Model path: model_zoo/usrnet.pth
+20-06-26 14:28:53.496 : model_name:usrnet, image sigma:2
+20-06-26 14:28:53.496 : testsets/set_real
+20-06-26 14:29:13.742 :  comic.png--> ( 361x250 )
+20-06-26 14:34:58.560 : Params number: 17016016
+20-06-26 14:34:58.561 : Model path: model_zoo/usrnet.pth
+20-06-26 14:34:58.561 : model_name:usrnet, image sigma:2
+20-06-26 14:34:58.561 : testsets/set_real
+20-06-26 14:35:32.829 :  comic.png--> ( 361x250 )
+20-06-26 14:37:08.630 : Params number: 17016016
+20-06-26 14:37:08.632 : Model path: model_zoo/usrnet.pth
+20-06-26 14:37:08.632 : model_name:usrnet, image sigma:2
+20-06-26 14:37:08.632 : testsets/set_real
+20-06-26 14:37:09.286 :  comic.png--> ( 361x250 )
+20-06-26 14:37:17.568 : Params number: 17016016
+20-06-26 14:37:17.570 : Model path: model_zoo/usrnet.pth
+20-06-26 14:37:17.570 : model_name:usrnet, image sigma:2
+20-06-26 14:37:17.570 : testsets/set_real
+20-06-26 14:37:17.574 :  comic.png--> ( 361x250 )
+20-06-26 14:37:25.750 : Params number: 17016016
+20-06-26 14:37:25.750 : Model path: model_zoo/usrnet.pth
+20-06-26 14:37:25.751 : model_name:usrnet, image sigma:2
+20-06-26 14:37:25.751 : testsets/set_real
+20-06-26 14:37:25.755 :  comic.png--> ( 361x250 )
+20-06-26 14:49:29.268 : Params number: 17016016
+20-06-26 14:49:29.269 : Model path: model_zoo/usrnet.pth
+20-06-26 14:49:29.269 : model_name:usrnet, image sigma:2
+20-06-26 14:49:29.269 : testsets/set_real
+20-06-26 14:49:29.276 :  comic.png--> ( 361x250 )

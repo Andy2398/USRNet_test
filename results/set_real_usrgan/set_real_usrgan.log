@@ -1,0 +1,64 @@
+20-06-26 12:43:32.915 : Params number: 17016016
+20-06-26 12:43:32.916 : Model path: model_zoo/usrgan.pth
+20-06-26 12:43:32.916 : model_name:usrgan, image sigma:2
+20-06-26 12:43:32.916 : testsets/set_real
+20-06-26 12:43:35.384 :  comic.png--> ( 361x250 )
+20-06-26 12:44:45.539 : Params number: 17016016
+20-06-26 12:44:45.539 : Model path: model_zoo/usrgan.pth
+20-06-26 12:44:45.539 : model_name:usrgan, image sigma:15
+20-06-26 12:44:45.539 : testsets/set_real
+20-06-26 12:44:47.340 :   chip.png--> (  52x108 )
+20-06-26 13:21:04.546 : Params number: 17016016
+20-06-26 13:21:04.546 : Model path: model_zoo/usrgan.pth
+20-06-26 13:21:04.546 : model_name:usrgan, image sigma:15
+20-06-26 13:21:04.546 : testsets/set_real
+20-06-26 13:22:05.281 :   chip.png--> (  52x108 )
+20-06-26 13:24:04.531 : Params number: 17016016
+20-06-26 13:24:04.532 : Model path: model_zoo/usrgan.pth
+20-06-26 13:24:04.532 : model_name:usrgan, image sigma:15
+20-06-26 13:24:04.532 : testsets/set_real
+20-06-26 13:24:05.348 :   chip.png--> (  52x108 )
+20-06-26 13:26:21.588 : Params number: 17016016
+20-06-26 13:26:21.589 : Model path: model_zoo/usrgan.pth
+20-06-26 13:26:21.589 : model_name:usrgan, image sigma:15
+20-06-26 13:26:21.589 : testsets/set_real
+20-06-26 13:26:22.358 :   chip.png--> (  52x108 )
+20-06-26 14:22:04.026 : Params number: 17016016
+20-06-26 14:22:04.027 : Model path: model_zoo/usrgan.pth
+20-06-26 14:22:04.027 : model_name:usrgan, image sigma:2
+20-06-26 14:22:04.027 : testsets/set_real
+20-06-26 14:22:05.017 :  comic.png--> ( 361x250 )
+20-06-26 14:22:20.823 : Params number: 17016016
+20-06-26 14:22:20.824 : Model path: model_zoo/usrgan.pth
+20-06-26 14:22:20.824 : model_name:usrgan, image sigma:2
+20-06-26 14:22:20.824 : testsets/set_real
+20-06-26 14:22:21.506 :  comic.png--> ( 361x250 )
+20-06-26 14:23:09.382 : Params number: 17016016
+20-06-26 14:23:09.383 : Model path: model_zoo/usrgan.pth
+20-06-26 14:23:09.383 : model_name:usrgan, image sigma:2
+20-06-26 14:23:09.383 : testsets/set_real
+20-06-26 14:27:44.555 : Params number: 17016016
+20-06-26 14:27:44.556 : Model path: model_zoo/usrgan.pth
+20-06-26 14:27:44.556 : model_name:usrgan, image sigma:2
+20-06-26 14:27:44.556 : testsets/set_real
+20-06-26 14:27:49.413 :  comic.png--> ( 361x250 )
+20-06-26 15:01:51.614 : Params number: 17016016
+20-06-26 15:01:51.616 : Model path: model_zoo/usrgan.pth
+20-06-26 15:01:51.616 : model_name:usrgan, image sigma:15
+20-06-26 15:01:51.616 : testsets/set_real
+20-06-26 15:01:51.617 :   chip.png--> (  52x108 )
+20-06-26 15:04:38.728 : Params number: 17016016
+20-06-26 15:04:38.729 : Model path: model_zoo/usrgan.pth
+20-06-26 15:04:38.729 : model_name:usrgan, image sigma:2
+20-06-26 15:04:38.729 : testsets/set_real
+20-06-26 15:04:38.735 :  comic.png--> ( 361x250 )
+20-06-26 15:06:56.490 : Params number: 17016016
+20-06-26 15:06:56.491 : Model path: model_zoo/usrgan.pth
+20-06-26 15:06:56.491 : model_name:usrgan, image sigma:2
+20-06-26 15:06:56.491 : testsets/set_real
+20-06-26 15:06:56.495 :  comic.png--> ( 361x250 )
+20-06-26 15:07:09.604 : Params number: 17016016
+20-06-26 15:07:09.605 : Model path: model_zoo/usrgan.pth
+20-06-26 15:07:09.605 : model_name:usrgan, image sigma:15
+20-06-26 15:07:09.605 : testsets/set_real
+20-06-26 15:07:09.606 :   chip.png--> (  52x108 )

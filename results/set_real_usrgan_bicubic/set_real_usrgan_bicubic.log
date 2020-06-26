@@ -1,0 +1,10 @@
+20-06-26 12:44:11.332 : Params number: 17016016
+20-06-26 12:44:11.333 : Model path: model_zoo/usrgan.pth
+20-06-26 12:44:11.333 : model_name:usrgan, image sigma:0
+20-06-26 12:44:11.333 : testsets/set_real
+20-06-26 12:44:11.334 : ---1-->   chip.png
+20-06-26 14:24:31.568 : Params number: 17016016
+20-06-26 14:24:31.570 : Model path: model_zoo/usrgan.pth
+20-06-26 14:24:31.570 : model_name:usrgan, image sigma:0
+20-06-26 14:24:31.570 : testsets/set_real
+20-06-26 14:24:31.571 : ---1-->   chip.png

@@ -1,0 +1,5 @@
+20-06-26 12:21:57.627 : Params number: 17016016
+20-06-26 12:21:57.628 : Model path: model_zoo/usrgan.pth
+20-06-26 12:21:57.628 : model_name:usrgan, image sigma:0
+20-06-26 12:21:57.628 : testsets/set5
+20-06-26 12:21:57.628 : ---1-->   baby.bmp

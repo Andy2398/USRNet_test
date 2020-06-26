@@ -65,7 +65,7 @@ def main():
 #     test_image = 'chip.png'    # 'chip.png', 'comic.png'
     # test_image = 'comic.png'
     # test_image = 'generate.png'
-    for i in os.listdir('01'):
+    for i in '01/*':
         test_image = i
 
         sf = 3                     # scale factor, only from {1, 2, 3, 4}

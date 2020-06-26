@@ -26,3 +26,1603 @@
 20-06-26 17:36:24.512 : Model path: model_zoo/usrnet.pth
 20-06-26 17:36:24.512 : model_name:usrnet, image sigma:2
 20-06-26 17:36:24.512 : testsets/01
+20-06-26 17:58:44.579 : Params number: 17016016
+20-06-26 17:58:45.891 : Model path: model_zoo/usrnet.pth
+20-06-26 17:58:45.892 : model_name:usrnet, image sigma:2
+20-06-26 17:58:45.892 : testsets/01
+20-06-26 17:58:45.898 : frame000231.jpg--> ( 432x864 )
+20-06-26 17:58:51.723 : Params number: 17016016
+20-06-26 17:58:51.733 : Model path: model_zoo/usrnet.pth
+20-06-26 17:58:51.733 : model_name:usrnet, image sigma:2
+20-06-26 17:58:51.733 : testsets/01
+20-06-26 17:58:51.738 : frame000298.jpg--> ( 432x864 )
+20-06-26 17:58:57.539 : Params number: 17016016
+20-06-26 17:58:57.549 : Model path: model_zoo/usrnet.pth
+20-06-26 17:58:57.549 : model_name:usrnet, image sigma:2
+20-06-26 17:58:57.549 : testsets/01
+20-06-26 17:58:57.554 : frame000234.jpg--> ( 432x864 )
+20-06-26 17:59:03.348 : Params number: 17016016
+20-06-26 17:59:03.358 : Model path: model_zoo/usrnet.pth
+20-06-26 17:59:03.358 : model_name:usrnet, image sigma:2
+20-06-26 17:59:03.358 : testsets/01
+20-06-26 17:59:03.363 : frame000273.jpg--> ( 432x864 )
+20-06-26 17:59:09.155 : Params number: 17016016
+20-06-26 17:59:09.165 : Model path: model_zoo/usrnet.pth
+20-06-26 17:59:09.166 : model_name:usrnet, image sigma:2
+20-06-26 17:59:09.166 : testsets/01
+20-06-26 17:59:09.170 : frame000084.jpg--> ( 432x864 )
+20-06-26 17:59:14.964 : Params number: 17016016
+20-06-26 17:59:14.974 : Model path: model_zoo/usrnet.pth
+20-06-26 17:59:14.974 : model_name:usrnet, image sigma:2
+20-06-26 17:59:14.974 : testsets/01
+20-06-26 17:59:14.979 : frame000291.jpg--> ( 432x864 )
+20-06-26 17:59:20.779 : Params number: 17016016
+20-06-26 17:59:20.789 : Model path: model_zoo/usrnet.pth
+20-06-26 17:59:20.789 : model_name:usrnet, image sigma:2
+20-06-26 17:59:20.790 : testsets/01
+20-06-26 17:59:20.794 : frame000205.jpg--> ( 432x864 )
+20-06-26 17:59:26.600 : Params number: 17016016
+20-06-26 17:59:26.610 : Model path: model_zoo/usrnet.pth
+20-06-26 17:59:26.610 : model_name:usrnet, image sigma:2
+20-06-26 17:59:26.610 : testsets/01
+20-06-26 17:59:26.615 : frame000000.jpg--> ( 432x864 )
+20-06-26 17:59:32.406 : Params number: 17016016
+20-06-26 17:59:32.416 : Model path: model_zoo/usrnet.pth
+20-06-26 17:59:32.416 : model_name:usrnet, image sigma:2
+20-06-26 17:59:32.416 : testsets/01
+20-06-26 17:59:32.421 : frame000293.jpg--> ( 432x864 )
+20-06-26 17:59:38.226 : Params number: 17016016
+20-06-26 17:59:38.236 : Model path: model_zoo/usrnet.pth
+20-06-26 17:59:38.236 : model_name:usrnet, image sigma:2
+20-06-26 17:59:38.236 : testsets/01
+20-06-26 17:59:38.241 : frame000055.jpg--> ( 432x864 )
+20-06-26 17:59:44.069 : Params number: 17016016
+20-06-26 17:59:44.079 : Model path: model_zoo/usrnet.pth
+20-06-26 17:59:44.079 : model_name:usrnet, image sigma:2
+20-06-26 17:59:44.079 : testsets/01
+20-06-26 17:59:44.084 : frame000034.jpg--> ( 432x864 )
+20-06-26 17:59:49.919 : Params number: 17016016
+20-06-26 17:59:49.930 : Model path: model_zoo/usrnet.pth
+20-06-26 17:59:49.930 : model_name:usrnet, image sigma:2
+20-06-26 17:59:49.930 : testsets/01
+20-06-26 17:59:49.934 : frame000140.jpg--> ( 432x864 )
+20-06-26 17:59:55.758 : Params number: 17016016
+20-06-26 17:59:55.768 : Model path: model_zoo/usrnet.pth
+20-06-26 17:59:55.768 : model_name:usrnet, image sigma:2
+20-06-26 17:59:55.768 : testsets/01
+20-06-26 17:59:55.773 : frame000180.jpg--> ( 432x864 )
+20-06-26 18:00:01.612 : Params number: 17016016
+20-06-26 18:00:01.623 : Model path: model_zoo/usrnet.pth
+20-06-26 18:00:01.623 : model_name:usrnet, image sigma:2
+20-06-26 18:00:01.623 : testsets/01
+20-06-26 18:00:01.628 : frame000311.jpg--> ( 432x864 )
+20-06-26 18:00:07.479 : Params number: 17016016
+20-06-26 18:00:07.489 : Model path: model_zoo/usrnet.pth
+20-06-26 18:00:07.489 : model_name:usrnet, image sigma:2
+20-06-26 18:00:07.490 : testsets/01
+20-06-26 18:00:07.494 : frame000064.jpg--> ( 432x864 )
+20-06-26 18:00:13.344 : Params number: 17016016
+20-06-26 18:00:13.354 : Model path: model_zoo/usrnet.pth
+20-06-26 18:00:13.354 : model_name:usrnet, image sigma:2
+20-06-26 18:00:13.354 : testsets/01
+20-06-26 18:00:13.359 : frame000112.jpg--> ( 432x864 )
+20-06-26 18:00:19.209 : Params number: 17016016
+20-06-26 18:00:19.219 : Model path: model_zoo/usrnet.pth
+20-06-26 18:00:19.219 : model_name:usrnet, image sigma:2
+20-06-26 18:00:19.219 : testsets/01
+20-06-26 18:00:19.224 : frame000117.jpg--> ( 432x864 )
+20-06-26 18:00:25.072 : Params number: 17016016
+20-06-26 18:00:25.082 : Model path: model_zoo/usrnet.pth
+20-06-26 18:00:25.082 : model_name:usrnet, image sigma:2
+20-06-26 18:00:25.082 : testsets/01
+20-06-26 18:00:25.087 : frame000050.jpg--> ( 432x864 )
+20-06-26 18:00:30.927 : Params number: 17016016
+20-06-26 18:00:30.937 : Model path: model_zoo/usrnet.pth
+20-06-26 18:00:30.937 : model_name:usrnet, image sigma:2
+20-06-26 18:00:30.937 : testsets/01
+20-06-26 18:00:30.942 : frame000019.jpg--> ( 432x864 )
+20-06-26 18:00:36.777 : Params number: 17016016
+20-06-26 18:00:36.787 : Model path: model_zoo/usrnet.pth
+20-06-26 18:00:36.787 : model_name:usrnet, image sigma:2
+20-06-26 18:00:36.787 : testsets/01
+20-06-26 18:00:36.792 : frame000058.jpg--> ( 432x864 )
+20-06-26 18:00:42.619 : Params number: 17016016
+20-06-26 18:00:42.630 : Model path: model_zoo/usrnet.pth
+20-06-26 18:00:42.630 : model_name:usrnet, image sigma:2
+20-06-26 18:00:42.630 : testsets/01
+20-06-26 18:00:42.634 : frame000147.jpg--> ( 432x864 )
+20-06-26 18:00:48.489 : Params number: 17016016
+20-06-26 18:00:48.501 : Model path: model_zoo/usrnet.pth
+20-06-26 18:00:48.501 : model_name:usrnet, image sigma:2
+20-06-26 18:00:48.501 : testsets/01
+20-06-26 18:00:48.506 : frame000281.jpg--> ( 432x864 )
+20-06-26 18:00:54.372 : Params number: 17016016
+20-06-26 18:00:54.382 : Model path: model_zoo/usrnet.pth
+20-06-26 18:00:54.382 : model_name:usrnet, image sigma:2
+20-06-26 18:00:54.382 : testsets/01
+20-06-26 18:00:54.386 : frame000021.jpg--> ( 432x864 )
+20-06-26 18:01:00.215 : Params number: 17016016
+20-06-26 18:01:00.225 : Model path: model_zoo/usrnet.pth
+20-06-26 18:01:00.225 : model_name:usrnet, image sigma:2
+20-06-26 18:01:00.226 : testsets/01
+20-06-26 18:01:00.230 : frame000247.jpg--> ( 432x864 )
+20-06-26 18:01:06.072 : Params number: 17016016
+20-06-26 18:01:06.082 : Model path: model_zoo/usrnet.pth
+20-06-26 18:01:06.082 : model_name:usrnet, image sigma:2
+20-06-26 18:01:06.082 : testsets/01
+20-06-26 18:01:06.087 : frame000005.jpg--> ( 432x864 )
+20-06-26 18:01:11.929 : Params number: 17016016
+20-06-26 18:01:11.939 : Model path: model_zoo/usrnet.pth
+20-06-26 18:01:11.940 : model_name:usrnet, image sigma:2
+20-06-26 18:01:11.940 : testsets/01
+20-06-26 18:01:11.944 : frame000302.jpg--> ( 432x864 )
+20-06-26 18:01:17.768 : Params number: 17016016
+20-06-26 18:01:17.778 : Model path: model_zoo/usrnet.pth
+20-06-26 18:01:17.778 : model_name:usrnet, image sigma:2
+20-06-26 18:01:17.778 : testsets/01
+20-06-26 18:01:17.783 : frame000162.jpg--> ( 432x864 )
+20-06-26 18:01:23.627 : Params number: 17016016
+20-06-26 18:01:23.639 : Model path: model_zoo/usrnet.pth
+20-06-26 18:01:23.639 : model_name:usrnet, image sigma:2
+20-06-26 18:01:23.639 : testsets/01
+20-06-26 18:01:23.644 : frame000260.jpg--> ( 432x864 )
+20-06-26 18:01:29.517 : Params number: 17016016
+20-06-26 18:01:29.529 : Model path: model_zoo/usrnet.pth
+20-06-26 18:01:29.529 : model_name:usrnet, image sigma:2
+20-06-26 18:01:29.530 : testsets/01
+20-06-26 18:01:29.534 : frame000013.jpg--> ( 432x864 )
+20-06-26 18:01:35.403 : Params number: 17016016
+20-06-26 18:01:35.413 : Model path: model_zoo/usrnet.pth
+20-06-26 18:01:35.413 : model_name:usrnet, image sigma:2
+20-06-26 18:01:35.414 : testsets/01
+20-06-26 18:01:35.418 : frame000104.jpg--> ( 432x864 )
+20-06-26 18:01:41.264 : Params number: 17016016
+20-06-26 18:01:41.275 : Model path: model_zoo/usrnet.pth
+20-06-26 18:01:41.275 : model_name:usrnet, image sigma:2
+20-06-26 18:01:41.275 : testsets/01
+20-06-26 18:01:41.280 : frame000201.jpg--> ( 432x864 )
+20-06-26 18:01:47.158 : Params number: 17016016
+20-06-26 18:01:47.168 : Model path: model_zoo/usrnet.pth
+20-06-26 18:01:47.168 : model_name:usrnet, image sigma:2
+20-06-26 18:01:47.168 : testsets/01
+20-06-26 18:01:47.173 : frame000244.jpg--> ( 432x864 )
+20-06-26 18:01:53.021 : Params number: 17016016
+20-06-26 18:01:53.031 : Model path: model_zoo/usrnet.pth
+20-06-26 18:01:53.031 : model_name:usrnet, image sigma:2
+20-06-26 18:01:53.031 : testsets/01
+20-06-26 18:01:53.036 : frame000305.jpg--> ( 432x864 )
+20-06-26 18:01:58.871 : Params number: 17016016
+20-06-26 18:01:58.881 : Model path: model_zoo/usrnet.pth
+20-06-26 18:01:58.881 : model_name:usrnet, image sigma:2
+20-06-26 18:01:58.881 : testsets/01
+20-06-26 18:01:58.886 : frame000071.jpg--> ( 432x864 )
+20-06-26 18:02:04.740 : Params number: 17016016
+20-06-26 18:02:04.751 : Model path: model_zoo/usrnet.pth
+20-06-26 18:02:04.751 : model_name:usrnet, image sigma:2
+20-06-26 18:02:04.751 : testsets/01
+20-06-26 18:02:04.756 : frame000004.jpg--> ( 432x864 )
+20-06-26 18:02:10.610 : Params number: 17016016
+20-06-26 18:02:10.620 : Model path: model_zoo/usrnet.pth
+20-06-26 18:02:10.620 : model_name:usrnet, image sigma:2
+20-06-26 18:02:10.620 : testsets/01
+20-06-26 18:02:10.625 : frame000296.jpg--> ( 432x864 )
+20-06-26 18:02:16.485 : Params number: 17016016
+20-06-26 18:02:16.495 : Model path: model_zoo/usrnet.pth
+20-06-26 18:02:16.496 : model_name:usrnet, image sigma:2
+20-06-26 18:02:16.496 : testsets/01
+20-06-26 18:02:16.500 : frame000059.jpg--> ( 432x864 )
+20-06-26 18:02:22.367 : Params number: 17016016
+20-06-26 18:02:22.378 : Model path: model_zoo/usrnet.pth
+20-06-26 18:02:22.378 : model_name:usrnet, image sigma:2
+20-06-26 18:02:22.378 : testsets/01
+20-06-26 18:02:22.383 : frame000089.jpg--> ( 432x864 )
+20-06-26 18:02:28.252 : Params number: 17016016
+20-06-26 18:02:28.264 : Model path: model_zoo/usrnet.pth
+20-06-26 18:02:28.264 : model_name:usrnet, image sigma:2
+20-06-26 18:02:28.264 : testsets/01
+20-06-26 18:02:28.269 : frame000268.jpg--> ( 432x864 )
+20-06-26 18:02:34.155 : Params number: 17016016
+20-06-26 18:02:34.165 : Model path: model_zoo/usrnet.pth
+20-06-26 18:02:34.165 : model_name:usrnet, image sigma:2
+20-06-26 18:02:34.165 : testsets/01
+20-06-26 18:02:34.170 : frame000192.jpg--> ( 432x864 )
+20-06-26 18:02:40.035 : Params number: 17016016
+20-06-26 18:02:40.045 : Model path: model_zoo/usrnet.pth
+20-06-26 18:02:40.045 : model_name:usrnet, image sigma:2
+20-06-26 18:02:40.045 : testsets/01
+20-06-26 18:02:40.050 : frame000105.jpg--> ( 432x864 )
+20-06-26 18:02:45.901 : Params number: 17016016
+20-06-26 18:02:45.911 : Model path: model_zoo/usrnet.pth
+20-06-26 18:02:45.912 : model_name:usrnet, image sigma:2
+20-06-26 18:02:45.912 : testsets/01
+20-06-26 18:02:45.916 : frame000194.jpg--> ( 432x864 )
+20-06-26 18:02:51.782 : Params number: 17016016
+20-06-26 18:02:51.793 : Model path: model_zoo/usrnet.pth
+20-06-26 18:02:51.793 : model_name:usrnet, image sigma:2
+20-06-26 18:02:51.793 : testsets/01
+20-06-26 18:02:51.797 : frame000086.jpg--> ( 432x864 )
+20-06-26 18:02:57.671 : Params number: 17016016
+20-06-26 18:02:57.682 : Model path: model_zoo/usrnet.pth
+20-06-26 18:02:57.682 : model_name:usrnet, image sigma:2
+20-06-26 18:02:57.682 : testsets/01
+20-06-26 18:02:57.686 : frame000049.jpg--> ( 432x864 )
+20-06-26 18:03:03.544 : Params number: 17016016
+20-06-26 18:03:03.554 : Model path: model_zoo/usrnet.pth
+20-06-26 18:03:03.554 : model_name:usrnet, image sigma:2
+20-06-26 18:03:03.555 : testsets/01
+20-06-26 18:03:03.559 : frame000307.jpg--> ( 432x864 )
+20-06-26 18:03:09.405 : Params number: 17016016
+20-06-26 18:03:09.415 : Model path: model_zoo/usrnet.pth
+20-06-26 18:03:09.416 : model_name:usrnet, image sigma:2
+20-06-26 18:03:09.416 : testsets/01
+20-06-26 18:03:09.420 : frame000146.jpg--> ( 432x864 )
+20-06-26 18:03:15.276 : Params number: 17016016
+20-06-26 18:03:15.287 : Model path: model_zoo/usrnet.pth
+20-06-26 18:03:15.287 : model_name:usrnet, image sigma:2
+20-06-26 18:03:15.287 : testsets/01
+20-06-26 18:03:15.292 : frame000027.jpg--> ( 432x864 )
+20-06-26 18:03:21.174 : Params number: 17016016
+20-06-26 18:03:21.186 : Model path: model_zoo/usrnet.pth
+20-06-26 18:03:21.186 : model_name:usrnet, image sigma:2
+20-06-26 18:03:21.186 : testsets/01
+20-06-26 18:03:21.191 : frame000235.jpg--> ( 432x864 )
+20-06-26 18:03:27.078 : Params number: 17016016
+20-06-26 18:03:27.088 : Model path: model_zoo/usrnet.pth
+20-06-26 18:03:27.088 : model_name:usrnet, image sigma:2
+20-06-26 18:03:27.088 : testsets/01
+20-06-26 18:03:27.093 : frame000133.jpg--> ( 432x864 )
+20-06-26 18:03:32.954 : Params number: 17016016
+20-06-26 18:03:32.964 : Model path: model_zoo/usrnet.pth
+20-06-26 18:03:32.964 : model_name:usrnet, image sigma:2
+20-06-26 18:03:32.964 : testsets/01
+20-06-26 18:03:32.968 : frame000274.jpg--> ( 432x864 )
+20-06-26 18:03:38.818 : Params number: 17016016
+20-06-26 18:03:38.828 : Model path: model_zoo/usrnet.pth
+20-06-26 18:03:38.829 : model_name:usrnet, image sigma:2
+20-06-26 18:03:38.829 : testsets/01
+20-06-26 18:03:38.833 : frame000157.jpg--> ( 432x864 )
+20-06-26 18:03:44.707 : Params number: 17016016
+20-06-26 18:03:44.717 : Model path: model_zoo/usrnet.pth
+20-06-26 18:03:44.717 : model_name:usrnet, image sigma:2
+20-06-26 18:03:44.717 : testsets/01
+20-06-26 18:03:44.722 : frame000314.jpg--> ( 432x864 )
+20-06-26 18:03:50.578 : Params number: 17016016
+20-06-26 18:03:50.589 : Model path: model_zoo/usrnet.pth
+20-06-26 18:03:50.590 : model_name:usrnet, image sigma:2
+20-06-26 18:03:50.590 : testsets/01
+20-06-26 18:03:50.594 : frame000292.jpg--> ( 432x864 )
+20-06-26 18:03:56.477 : Params number: 17016016
+20-06-26 18:03:56.488 : Model path: model_zoo/usrnet.pth
+20-06-26 18:03:56.488 : model_name:usrnet, image sigma:2
+20-06-26 18:03:56.488 : testsets/01
+20-06-26 18:03:56.493 : frame000030.jpg--> ( 432x864 )
+20-06-26 18:04:02.359 : Params number: 17016016
+20-06-26 18:04:02.369 : Model path: model_zoo/usrnet.pth
+20-06-26 18:04:02.369 : model_name:usrnet, image sigma:2
+20-06-26 18:04:02.370 : testsets/01
+20-06-26 18:04:02.374 : frame000241.jpg--> ( 432x864 )
+20-06-26 18:04:08.244 : Params number: 17016016
+20-06-26 18:04:08.254 : Model path: model_zoo/usrnet.pth
+20-06-26 18:04:08.254 : model_name:usrnet, image sigma:2
+20-06-26 18:04:08.254 : testsets/01
+20-06-26 18:04:08.258 : frame000072.jpg--> ( 432x864 )
+20-06-26 18:04:14.112 : Params number: 17016016
+20-06-26 18:04:14.123 : Model path: model_zoo/usrnet.pth
+20-06-26 18:04:14.123 : model_name:usrnet, image sigma:2
+20-06-26 18:04:14.123 : testsets/01
+20-06-26 18:04:14.127 : frame000282.jpg--> ( 432x864 )
+20-06-26 18:04:19.978 : Params number: 17016016
+20-06-26 18:04:19.988 : Model path: model_zoo/usrnet.pth
+20-06-26 18:04:19.988 : model_name:usrnet, image sigma:2
+20-06-26 18:04:19.988 : testsets/01
+20-06-26 18:04:19.993 : frame000160.jpg--> ( 432x864 )
+20-06-26 18:04:25.865 : Params number: 17016016
+20-06-26 18:04:25.875 : Model path: model_zoo/usrnet.pth
+20-06-26 18:04:25.875 : model_name:usrnet, image sigma:2
+20-06-26 18:04:25.875 : testsets/01
+20-06-26 18:04:25.880 : frame000178.jpg--> ( 432x864 )
+20-06-26 18:04:31.745 : Params number: 17016016
+20-06-26 18:04:31.755 : Model path: model_zoo/usrnet.pth
+20-06-26 18:04:31.755 : model_name:usrnet, image sigma:2
+20-06-26 18:04:31.755 : testsets/01
+20-06-26 18:04:31.760 : frame000106.jpg--> ( 432x864 )
+20-06-26 18:04:37.627 : Params number: 17016016
+20-06-26 18:04:37.637 : Model path: model_zoo/usrnet.pth
+20-06-26 18:04:37.637 : model_name:usrnet, image sigma:2
+20-06-26 18:04:37.637 : testsets/01
+20-06-26 18:04:37.642 : frame000017.jpg--> ( 432x864 )
+20-06-26 18:04:43.508 : Params number: 17016016
+20-06-26 18:04:43.519 : Model path: model_zoo/usrnet.pth
+20-06-26 18:04:43.519 : model_name:usrnet, image sigma:2
+20-06-26 18:04:43.519 : testsets/01
+20-06-26 18:04:43.524 : frame000212.jpg--> ( 432x864 )
+20-06-26 18:04:49.398 : Params number: 17016016
+20-06-26 18:04:49.408 : Model path: model_zoo/usrnet.pth
+20-06-26 18:04:49.408 : model_name:usrnet, image sigma:2
+20-06-26 18:04:49.408 : testsets/01
+20-06-26 18:04:49.413 : frame000263.jpg--> ( 432x864 )
+20-06-26 18:04:55.280 : Params number: 17016016
+20-06-26 18:04:55.290 : Model path: model_zoo/usrnet.pth
+20-06-26 18:04:55.290 : model_name:usrnet, image sigma:2
+20-06-26 18:04:55.290 : testsets/01
+20-06-26 18:04:55.295 : frame000176.jpg--> ( 432x864 )
+20-06-26 18:05:01.155 : Params number: 17016016
+20-06-26 18:05:01.165 : Model path: model_zoo/usrnet.pth
+20-06-26 18:05:01.165 : model_name:usrnet, image sigma:2
+20-06-26 18:05:01.165 : testsets/01
+20-06-26 18:05:01.170 : frame000009.jpg--> ( 432x864 )
+20-06-26 18:05:07.022 : Params number: 17016016
+20-06-26 18:05:07.033 : Model path: model_zoo/usrnet.pth
+20-06-26 18:05:07.033 : model_name:usrnet, image sigma:2
+20-06-26 18:05:07.033 : testsets/01
+20-06-26 18:05:07.038 : frame000077.jpg--> ( 432x864 )
+20-06-26 18:05:12.908 : Params number: 17016016
+20-06-26 18:05:12.918 : Model path: model_zoo/usrnet.pth
+20-06-26 18:05:12.918 : model_name:usrnet, image sigma:2
+20-06-26 18:05:12.918 : testsets/01
+20-06-26 18:05:12.923 : frame000098.jpg--> ( 432x864 )
+20-06-26 18:05:18.798 : Params number: 17016016
+20-06-26 18:05:18.809 : Model path: model_zoo/usrnet.pth
+20-06-26 18:05:18.809 : model_name:usrnet, image sigma:2
+20-06-26 18:05:18.809 : testsets/01
+20-06-26 18:05:18.814 : frame000020.jpg--> ( 432x864 )
+20-06-26 18:05:24.703 : Params number: 17016016
+20-06-26 18:05:24.713 : Model path: model_zoo/usrnet.pth
+20-06-26 18:05:24.713 : model_name:usrnet, image sigma:2
+20-06-26 18:05:24.713 : testsets/01
+20-06-26 18:05:24.718 : frame000033.jpg--> ( 432x864 )
+20-06-26 18:05:30.593 : Params number: 17016016
+20-06-26 18:05:30.603 : Model path: model_zoo/usrnet.pth
+20-06-26 18:05:30.603 : model_name:usrnet, image sigma:2
+20-06-26 18:05:30.603 : testsets/01
+20-06-26 18:05:30.608 : frame000203.jpg--> ( 432x864 )
+20-06-26 18:05:36.490 : Params number: 17016016
+20-06-26 18:05:36.500 : Model path: model_zoo/usrnet.pth
+20-06-26 18:05:36.500 : model_name:usrnet, image sigma:2
+20-06-26 18:05:36.500 : testsets/01
+20-06-26 18:05:36.505 : frame000085.jpg--> ( 432x864 )
+20-06-26 18:05:42.395 : Params number: 17016016
+20-06-26 18:05:42.405 : Model path: model_zoo/usrnet.pth
+20-06-26 18:05:42.405 : model_name:usrnet, image sigma:2
+20-06-26 18:05:42.405 : testsets/01
+20-06-26 18:05:42.410 : frame000028.jpg--> ( 432x864 )
+20-06-26 18:05:48.288 : Params number: 17016016
+20-06-26 18:05:48.298 : Model path: model_zoo/usrnet.pth
+20-06-26 18:05:48.298 : model_name:usrnet, image sigma:2
+20-06-26 18:05:48.298 : testsets/01
+20-06-26 18:05:48.303 : frame000229.jpg--> ( 432x864 )
+20-06-26 18:05:54.175 : Params number: 17016016
+20-06-26 18:05:54.185 : Model path: model_zoo/usrnet.pth
+20-06-26 18:05:54.185 : model_name:usrnet, image sigma:2
+20-06-26 18:05:54.185 : testsets/01
+20-06-26 18:05:54.190 : frame000148.jpg--> ( 432x864 )
+20-06-26 18:06:00.069 : Params number: 17016016
+20-06-26 18:06:00.079 : Model path: model_zoo/usrnet.pth
+20-06-26 18:06:00.079 : model_name:usrnet, image sigma:2
+20-06-26 18:06:00.079 : testsets/01
+20-06-26 18:06:00.084 : frame000266.jpg--> ( 432x864 )
+20-06-26 18:06:05.949 : Params number: 17016016
+20-06-26 18:06:05.961 : Model path: model_zoo/usrnet.pth
+20-06-26 18:06:05.961 : model_name:usrnet, image sigma:2
+20-06-26 18:06:05.961 : testsets/01
+20-06-26 18:06:05.966 : frame000122.jpg--> ( 432x864 )
+20-06-26 18:06:11.859 : Params number: 17016016
+20-06-26 18:06:11.869 : Model path: model_zoo/usrnet.pth
+20-06-26 18:06:11.869 : model_name:usrnet, image sigma:2
+20-06-26 18:06:11.869 : testsets/01
+20-06-26 18:06:11.874 : frame000286.jpg--> ( 432x864 )
+20-06-26 18:06:17.747 : Params number: 17016016
+20-06-26 18:06:17.757 : Model path: model_zoo/usrnet.pth
+20-06-26 18:06:17.758 : model_name:usrnet, image sigma:2
+20-06-26 18:06:17.758 : testsets/01
+20-06-26 18:06:17.762 : frame000202.jpg--> ( 432x864 )
+20-06-26 18:06:23.628 : Params number: 17016016
+20-06-26 18:06:23.638 : Model path: model_zoo/usrnet.pth
+20-06-26 18:06:23.638 : model_name:usrnet, image sigma:2
+20-06-26 18:06:23.638 : testsets/01
+20-06-26 18:06:23.643 : frame000150.jpg--> ( 432x864 )
+20-06-26 18:06:29.500 : Params number: 17016016
+20-06-26 18:06:29.509 : Model path: model_zoo/usrnet.pth
+20-06-26 18:06:29.510 : model_name:usrnet, image sigma:2
+20-06-26 18:06:29.510 : testsets/01
+20-06-26 18:06:29.514 : frame000184.jpg--> ( 432x864 )
+20-06-26 18:06:35.392 : Params number: 17016016
+20-06-26 18:06:35.402 : Model path: model_zoo/usrnet.pth
+20-06-26 18:06:35.403 : model_name:usrnet, image sigma:2
+20-06-26 18:06:35.403 : testsets/01
+20-06-26 18:06:35.407 : frame000111.jpg--> ( 432x864 )
+20-06-26 18:06:41.279 : Params number: 17016016
+20-06-26 18:06:41.289 : Model path: model_zoo/usrnet.pth
+20-06-26 18:06:41.289 : model_name:usrnet, image sigma:2
+20-06-26 18:06:41.290 : testsets/01
+20-06-26 18:06:41.294 : frame000315.jpg--> ( 432x864 )
+20-06-26 18:06:47.164 : Params number: 17016016
+20-06-26 18:06:47.176 : Model path: model_zoo/usrnet.pth
+20-06-26 18:06:47.176 : model_name:usrnet, image sigma:2
+20-06-26 18:06:47.176 : testsets/01
+20-06-26 18:06:47.181 : frame000215.jpg--> ( 432x864 )
+20-06-26 18:06:53.071 : Params number: 17016016
+20-06-26 18:06:53.081 : Model path: model_zoo/usrnet.pth
+20-06-26 18:06:53.081 : model_name:usrnet, image sigma:2
+20-06-26 18:06:53.081 : testsets/01
+20-06-26 18:06:53.086 : frame000316.jpg--> ( 432x864 )
+20-06-26 18:06:58.952 : Params number: 17016016
+20-06-26 18:06:58.962 : Model path: model_zoo/usrnet.pth
+20-06-26 18:06:58.962 : model_name:usrnet, image sigma:2
+20-06-26 18:06:58.963 : testsets/01
+20-06-26 18:06:58.967 : frame000074.jpg--> ( 432x864 )
+20-06-26 18:07:04.853 : Params number: 17016016
+20-06-26 18:07:04.865 : Model path: model_zoo/usrnet.pth
+20-06-26 18:07:04.865 : model_name:usrnet, image sigma:2
+20-06-26 18:07:04.865 : testsets/01
+20-06-26 18:07:04.870 : frame000082.jpg--> ( 432x864 )
+20-06-26 18:07:10.758 : Params number: 17016016
+20-06-26 18:07:10.768 : Model path: model_zoo/usrnet.pth
+20-06-26 18:07:10.768 : model_name:usrnet, image sigma:2
+20-06-26 18:07:10.768 : testsets/01
+20-06-26 18:07:10.773 : frame000217.jpg--> ( 432x864 )
+20-06-26 18:07:16.662 : Params number: 17016016
+20-06-26 18:07:16.672 : Model path: model_zoo/usrnet.pth
+20-06-26 18:07:16.672 : model_name:usrnet, image sigma:2
+20-06-26 18:07:16.673 : testsets/01
+20-06-26 18:07:16.677 : frame000130.jpg--> ( 432x864 )
+20-06-26 18:07:22.541 : Params number: 17016016
+20-06-26 18:07:22.551 : Model path: model_zoo/usrnet.pth
+20-06-26 18:07:22.551 : model_name:usrnet, image sigma:2
+20-06-26 18:07:22.551 : testsets/01
+20-06-26 18:07:22.556 : frame000102.jpg--> ( 432x864 )
+20-06-26 18:07:28.418 : Params number: 17016016
+20-06-26 18:07:28.428 : Model path: model_zoo/usrnet.pth
+20-06-26 18:07:28.428 : model_name:usrnet, image sigma:2
+20-06-26 18:07:28.428 : testsets/01
+20-06-26 18:07:28.433 : frame000257.jpg--> ( 432x864 )
+20-06-26 18:07:34.301 : Params number: 17016016
+20-06-26 18:07:34.311 : Model path: model_zoo/usrnet.pth
+20-06-26 18:07:34.311 : model_name:usrnet, image sigma:2
+20-06-26 18:07:34.311 : testsets/01
+20-06-26 18:07:34.315 : frame000211.jpg--> ( 432x864 )
+20-06-26 18:07:40.187 : Params number: 17016016
+20-06-26 18:07:40.198 : Model path: model_zoo/usrnet.pth
+20-06-26 18:07:40.198 : model_name:usrnet, image sigma:2
+20-06-26 18:07:40.198 : testsets/01
+20-06-26 18:07:40.203 : frame000023.jpg--> ( 432x864 )
+20-06-26 18:07:46.082 : Params number: 17016016
+20-06-26 18:07:46.093 : Model path: model_zoo/usrnet.pth
+20-06-26 18:07:46.093 : model_name:usrnet, image sigma:2
+20-06-26 18:07:46.093 : testsets/01
+20-06-26 18:07:46.098 : frame000153.jpg--> ( 432x864 )
+20-06-26 18:07:51.967 : Params number: 17016016
+20-06-26 18:07:51.977 : Model path: model_zoo/usrnet.pth
+20-06-26 18:07:51.978 : model_name:usrnet, image sigma:2
+20-06-26 18:07:51.978 : testsets/01
+20-06-26 18:07:51.982 : frame000312.jpg--> ( 432x864 )
+20-06-26 18:07:57.865 : Params number: 17016016
+20-06-26 18:07:57.876 : Model path: model_zoo/usrnet.pth
+20-06-26 18:07:57.876 : model_name:usrnet, image sigma:2
+20-06-26 18:07:57.876 : testsets/01
+20-06-26 18:07:57.881 : frame000029.jpg--> ( 432x864 )
+20-06-26 18:08:03.768 : Params number: 17016016
+20-06-26 18:08:03.780 : Model path: model_zoo/usrnet.pth
+20-06-26 18:08:03.780 : model_name:usrnet, image sigma:2
+20-06-26 18:08:03.780 : testsets/01
+20-06-26 18:08:03.785 : frame000259.jpg--> ( 432x864 )
+20-06-26 18:08:09.678 : Params number: 17016016
+20-06-26 18:08:09.689 : Model path: model_zoo/usrnet.pth
+20-06-26 18:08:09.689 : model_name:usrnet, image sigma:2
+20-06-26 18:08:09.689 : testsets/01
+20-06-26 18:08:09.693 : frame000161.jpg--> ( 432x864 )
+20-06-26 18:08:15.556 : Params number: 17016016
+20-06-26 18:08:15.566 : Model path: model_zoo/usrnet.pth
+20-06-26 18:08:15.566 : model_name:usrnet, image sigma:2
+20-06-26 18:08:15.566 : testsets/01
+20-06-26 18:08:15.571 : frame000048.jpg--> ( 432x864 )
+20-06-26 18:08:21.440 : Params number: 17016016
+20-06-26 18:08:21.452 : Model path: model_zoo/usrnet.pth
+20-06-26 18:08:21.452 : model_name:usrnet, image sigma:2
+20-06-26 18:08:21.452 : testsets/01
+20-06-26 18:08:21.457 : frame000279.jpg--> ( 432x864 )
+20-06-26 18:08:27.354 : Params number: 17016016
+20-06-26 18:08:27.365 : Model path: model_zoo/usrnet.pth
+20-06-26 18:08:27.365 : model_name:usrnet, image sigma:2
+20-06-26 18:08:27.365 : testsets/01
+20-06-26 18:08:27.369 : frame000039.jpg--> ( 432x864 )
+20-06-26 18:08:33.246 : Params number: 17016016
+20-06-26 18:08:33.256 : Model path: model_zoo/usrnet.pth
+20-06-26 18:08:33.256 : model_name:usrnet, image sigma:2
+20-06-26 18:08:33.256 : testsets/01
+20-06-26 18:08:33.261 : frame000297.jpg--> ( 432x864 )
+20-06-26 18:08:39.131 : Params number: 17016016
+20-06-26 18:08:39.141 : Model path: model_zoo/usrnet.pth
+20-06-26 18:08:39.141 : model_name:usrnet, image sigma:2
+20-06-26 18:08:39.141 : testsets/01
+20-06-26 18:08:39.146 : frame000303.jpg--> ( 432x864 )
+20-06-26 18:08:45.008 : Params number: 17016016
+20-06-26 18:08:45.019 : Model path: model_zoo/usrnet.pth
+20-06-26 18:08:45.020 : model_name:usrnet, image sigma:2
+20-06-26 18:08:45.020 : testsets/01
+20-06-26 18:08:45.024 : frame000155.jpg--> ( 432x864 )
+20-06-26 18:08:50.923 : Params number: 17016016
+20-06-26 18:08:50.933 : Model path: model_zoo/usrnet.pth
+20-06-26 18:08:50.933 : model_name:usrnet, image sigma:2
+20-06-26 18:08:50.933 : testsets/01
+20-06-26 18:08:50.937 : frame000094.jpg--> ( 432x864 )
+20-06-26 18:08:56.815 : Params number: 17016016
+20-06-26 18:08:56.825 : Model path: model_zoo/usrnet.pth
+20-06-26 18:08:56.825 : model_name:usrnet, image sigma:2
+20-06-26 18:08:56.825 : testsets/01
+20-06-26 18:08:56.829 : frame000277.jpg--> ( 432x864 )
+20-06-26 18:09:02.711 : Params number: 17016016
+20-06-26 18:09:02.721 : Model path: model_zoo/usrnet.pth
+20-06-26 18:09:02.721 : model_name:usrnet, image sigma:2
+20-06-26 18:09:02.721 : testsets/01
+20-06-26 18:09:02.726 : frame000092.jpg--> ( 432x864 )
+20-06-26 18:09:08.596 : Params number: 17016016
+20-06-26 18:09:08.606 : Model path: model_zoo/usrnet.pth
+20-06-26 18:09:08.606 : model_name:usrnet, image sigma:2
+20-06-26 18:09:08.606 : testsets/01
+20-06-26 18:09:08.611 : frame000319.jpg--> ( 432x864 )
+20-06-26 18:09:14.477 : Params number: 17016016
+20-06-26 18:09:14.487 : Model path: model_zoo/usrnet.pth
+20-06-26 18:09:14.487 : model_name:usrnet, image sigma:2
+20-06-26 18:09:14.487 : testsets/01
+20-06-26 18:09:14.492 : frame000090.jpg--> ( 432x864 )
+20-06-26 18:09:20.374 : Params number: 17016016
+20-06-26 18:09:20.384 : Model path: model_zoo/usrnet.pth
+20-06-26 18:09:20.384 : model_name:usrnet, image sigma:2
+20-06-26 18:09:20.384 : testsets/01
+20-06-26 18:09:20.389 : frame000079.jpg--> ( 432x864 )
+20-06-26 18:09:26.250 : Params number: 17016016
+20-06-26 18:09:26.261 : Model path: model_zoo/usrnet.pth
+20-06-26 18:09:26.261 : model_name:usrnet, image sigma:2
+20-06-26 18:09:26.261 : testsets/01
+20-06-26 18:09:26.265 : frame000255.jpg--> ( 432x864 )
+20-06-26 18:09:32.134 : Params number: 17016016
+20-06-26 18:09:32.144 : Model path: model_zoo/usrnet.pth
+20-06-26 18:09:32.144 : model_name:usrnet, image sigma:2
+20-06-26 18:09:32.144 : testsets/01
+20-06-26 18:09:32.148 : frame000230.jpg--> ( 432x864 )
+20-06-26 18:09:38.021 : Params number: 17016016
+20-06-26 18:09:38.031 : Model path: model_zoo/usrnet.pth
+20-06-26 18:09:38.031 : model_name:usrnet, image sigma:2
+20-06-26 18:09:38.031 : testsets/01
+20-06-26 18:09:38.036 : frame000301.jpg--> ( 432x864 )
+20-06-26 18:09:43.911 : Params number: 17016016
+20-06-26 18:09:43.921 : Model path: model_zoo/usrnet.pth
+20-06-26 18:09:43.921 : model_name:usrnet, image sigma:2
+20-06-26 18:09:43.921 : testsets/01
+20-06-26 18:09:43.926 : frame000054.jpg--> ( 432x864 )
+20-06-26 18:09:49.851 : Params number: 17016016
+20-06-26 18:09:49.861 : Model path: model_zoo/usrnet.pth
+20-06-26 18:09:49.861 : model_name:usrnet, image sigma:2
+20-06-26 18:09:49.861 : testsets/01
+20-06-26 18:09:49.866 : frame000065.jpg--> ( 432x864 )
+20-06-26 18:09:55.732 : Params number: 17016016
+20-06-26 18:09:55.745 : Model path: model_zoo/usrnet.pth
+20-06-26 18:09:55.745 : model_name:usrnet, image sigma:2
+20-06-26 18:09:55.745 : testsets/01
+20-06-26 18:09:55.750 : frame000167.jpg--> ( 432x864 )
+20-06-26 18:10:01.645 : Params number: 17016016
+20-06-26 18:10:01.655 : Model path: model_zoo/usrnet.pth
+20-06-26 18:10:01.655 : model_name:usrnet, image sigma:2
+20-06-26 18:10:01.655 : testsets/01
+20-06-26 18:10:01.660 : frame000136.jpg--> ( 432x864 )
+20-06-26 18:10:07.537 : Params number: 17016016
+20-06-26 18:10:07.547 : Model path: model_zoo/usrnet.pth
+20-06-26 18:10:07.547 : model_name:usrnet, image sigma:2
+20-06-26 18:10:07.547 : testsets/01
+20-06-26 18:10:07.552 : frame000204.jpg--> ( 432x864 )
+20-06-26 18:10:13.418 : Params number: 17016016
+20-06-26 18:10:13.428 : Model path: model_zoo/usrnet.pth
+20-06-26 18:10:13.428 : model_name:usrnet, image sigma:2
+20-06-26 18:10:13.428 : testsets/01
+20-06-26 18:10:13.433 : frame000026.jpg--> ( 432x864 )
+20-06-26 18:10:19.300 : Params number: 17016016
+20-06-26 18:10:19.310 : Model path: model_zoo/usrnet.pth
+20-06-26 18:10:19.310 : model_name:usrnet, image sigma:2
+20-06-26 18:10:19.310 : testsets/01
+20-06-26 18:10:19.315 : frame000318.jpg--> ( 432x864 )
+20-06-26 18:10:25.172 : Params number: 17016016
+20-06-26 18:10:25.183 : Model path: model_zoo/usrnet.pth
+20-06-26 18:10:25.183 : model_name:usrnet, image sigma:2
+20-06-26 18:10:25.183 : testsets/01
+20-06-26 18:10:25.188 : frame000018.jpg--> ( 432x864 )
+20-06-26 18:10:31.077 : Params number: 17016016
+20-06-26 18:10:31.087 : Model path: model_zoo/usrnet.pth
+20-06-26 18:10:31.087 : model_name:usrnet, image sigma:2
+20-06-26 18:10:31.087 : testsets/01
+20-06-26 18:10:31.092 : frame000141.jpg--> ( 432x864 )
+20-06-26 18:10:36.968 : Params number: 17016016
+20-06-26 18:10:36.978 : Model path: model_zoo/usrnet.pth
+20-06-26 18:10:36.978 : model_name:usrnet, image sigma:2
+20-06-26 18:10:36.978 : testsets/01
+20-06-26 18:10:36.982 : frame000166.jpg--> ( 432x864 )
+20-06-26 18:10:42.871 : Params number: 17016016
+20-06-26 18:10:42.881 : Model path: model_zoo/usrnet.pth
+20-06-26 18:10:42.881 : model_name:usrnet, image sigma:2
+20-06-26 18:10:42.881 : testsets/01
+20-06-26 18:10:42.886 : frame000075.jpg--> ( 432x864 )
+20-06-26 18:10:48.766 : Params number: 17016016
+20-06-26 18:10:48.777 : Model path: model_zoo/usrnet.pth
+20-06-26 18:10:48.777 : model_name:usrnet, image sigma:2
+20-06-26 18:10:48.777 : testsets/01
+20-06-26 18:10:48.782 : frame000246.jpg--> ( 432x864 )
+20-06-26 18:10:54.687 : Params number: 17016016
+20-06-26 18:10:54.698 : Model path: model_zoo/usrnet.pth
+20-06-26 18:10:54.698 : model_name:usrnet, image sigma:2
+20-06-26 18:10:54.698 : testsets/01
+20-06-26 18:10:54.702 : frame000214.jpg--> ( 432x864 )
+20-06-26 18:11:00.586 : Params number: 17016016
+20-06-26 18:11:00.597 : Model path: model_zoo/usrnet.pth
+20-06-26 18:11:00.597 : model_name:usrnet, image sigma:2
+20-06-26 18:11:00.598 : testsets/01
+20-06-26 18:11:00.602 : frame000012.jpg--> ( 432x864 )
+20-06-26 18:11:06.498 : Params number: 17016016
+20-06-26 18:11:06.508 : Model path: model_zoo/usrnet.pth
+20-06-26 18:11:06.508 : model_name:usrnet, image sigma:2
+20-06-26 18:11:06.508 : testsets/01
+20-06-26 18:11:06.513 : frame000185.jpg--> ( 432x864 )
+20-06-26 18:11:12.382 : Params number: 17016016
+20-06-26 18:11:12.392 : Model path: model_zoo/usrnet.pth
+20-06-26 18:11:12.392 : model_name:usrnet, image sigma:2
+20-06-26 18:11:12.392 : testsets/01
+20-06-26 18:11:12.397 : frame000052.jpg--> ( 432x864 )
+20-06-26 18:11:18.267 : Params number: 17016016
+20-06-26 18:11:18.277 : Model path: model_zoo/usrnet.pth
+20-06-26 18:11:18.277 : model_name:usrnet, image sigma:2
+20-06-26 18:11:18.277 : testsets/01
+20-06-26 18:11:18.282 : frame000210.jpg--> ( 432x864 )
+20-06-26 18:11:24.159 : Params number: 17016016
+20-06-26 18:11:24.169 : Model path: model_zoo/usrnet.pth
+20-06-26 18:11:24.169 : model_name:usrnet, image sigma:2
+20-06-26 18:11:24.169 : testsets/01
+20-06-26 18:11:24.174 : frame000040.jpg--> ( 432x864 )
+20-06-26 18:11:30.062 : Params number: 17016016
+20-06-26 18:11:30.072 : Model path: model_zoo/usrnet.pth
+20-06-26 18:11:30.072 : model_name:usrnet, image sigma:2
+20-06-26 18:11:30.072 : testsets/01
+20-06-26 18:11:30.077 : frame000218.jpg--> ( 432x864 )
+20-06-26 18:11:35.949 : Params number: 17016016
+20-06-26 18:11:35.959 : Model path: model_zoo/usrnet.pth
+20-06-26 18:11:35.959 : model_name:usrnet, image sigma:2
+20-06-26 18:11:35.959 : testsets/01
+20-06-26 18:11:35.964 : frame000213.jpg--> ( 432x864 )
+20-06-26 18:11:41.842 : Params number: 17016016
+20-06-26 18:11:41.853 : Model path: model_zoo/usrnet.pth
+20-06-26 18:11:41.853 : model_name:usrnet, image sigma:2
+20-06-26 18:11:41.853 : testsets/01
+20-06-26 18:11:41.858 : frame000304.jpg--> ( 432x864 )
+20-06-26 18:11:47.751 : Params number: 17016016
+20-06-26 18:11:47.761 : Model path: model_zoo/usrnet.pth
+20-06-26 18:11:47.761 : model_name:usrnet, image sigma:2
+20-06-26 18:11:47.761 : testsets/01
+20-06-26 18:11:47.766 : frame000101.jpg--> ( 432x864 )
+20-06-26 18:11:53.643 : Params number: 17016016
+20-06-26 18:11:53.653 : Model path: model_zoo/usrnet.pth
+20-06-26 18:11:53.653 : model_name:usrnet, image sigma:2
+20-06-26 18:11:53.653 : testsets/01
+20-06-26 18:11:53.658 : frame000262.jpg--> ( 432x864 )
+20-06-26 18:11:59.540 : Params number: 17016016
+20-06-26 18:11:59.550 : Model path: model_zoo/usrnet.pth
+20-06-26 18:11:59.550 : model_name:usrnet, image sigma:2
+20-06-26 18:11:59.550 : testsets/01
+20-06-26 18:11:59.555 : frame000132.jpg--> ( 432x864 )
+20-06-26 18:12:05.418 : Params number: 17016016
+20-06-26 18:12:05.428 : Model path: model_zoo/usrnet.pth
+20-06-26 18:12:05.428 : model_name:usrnet, image sigma:2
+20-06-26 18:12:05.428 : testsets/01
+20-06-26 18:12:05.432 : frame000209.jpg--> ( 432x864 )
+20-06-26 18:12:11.317 : Params number: 17016016
+20-06-26 18:12:11.327 : Model path: model_zoo/usrnet.pth
+20-06-26 18:12:11.327 : model_name:usrnet, image sigma:2
+20-06-26 18:12:11.327 : testsets/01
+20-06-26 18:12:11.332 : frame000228.jpg--> ( 432x864 )
+20-06-26 18:12:17.211 : Params number: 17016016
+20-06-26 18:12:17.221 : Model path: model_zoo/usrnet.pth
+20-06-26 18:12:17.221 : model_name:usrnet, image sigma:2
+20-06-26 18:12:17.221 : testsets/01
+20-06-26 18:12:17.226 : frame000116.jpg--> ( 432x864 )
+20-06-26 18:12:23.100 : Params number: 17016016
+20-06-26 18:12:23.110 : Model path: model_zoo/usrnet.pth
+20-06-26 18:12:23.110 : model_name:usrnet, image sigma:2
+20-06-26 18:12:23.110 : testsets/01
+20-06-26 18:12:23.115 : frame000206.jpg--> ( 432x864 )
+20-06-26 18:12:28.988 : Params number: 17016016
+20-06-26 18:12:28.998 : Model path: model_zoo/usrnet.pth
+20-06-26 18:12:28.998 : model_name:usrnet, image sigma:2
+20-06-26 18:12:28.998 : testsets/01
+20-06-26 18:12:29.003 : frame000022.jpg--> ( 432x864 )
+20-06-26 18:12:34.877 : Params number: 17016016
+20-06-26 18:12:34.887 : Model path: model_zoo/usrnet.pth
+20-06-26 18:12:34.887 : model_name:usrnet, image sigma:2
+20-06-26 18:12:34.887 : testsets/01
+20-06-26 18:12:34.892 : frame000109.jpg--> ( 432x864 )
+20-06-26 18:12:40.760 : Params number: 17016016
+20-06-26 18:12:40.770 : Model path: model_zoo/usrnet.pth
+20-06-26 18:12:40.770 : model_name:usrnet, image sigma:2
+20-06-26 18:12:40.770 : testsets/01
+20-06-26 18:12:40.775 : frame000158.jpg--> ( 432x864 )
+20-06-26 18:12:46.665 : Params number: 17016016
+20-06-26 18:12:46.675 : Model path: model_zoo/usrnet.pth
+20-06-26 18:12:46.675 : model_name:usrnet, image sigma:2
+20-06-26 18:12:46.675 : testsets/01
+20-06-26 18:12:46.680 : frame000308.jpg--> ( 432x864 )
+20-06-26 18:12:52.549 : Params number: 17016016
+20-06-26 18:12:52.559 : Model path: model_zoo/usrnet.pth
+20-06-26 18:12:52.559 : model_name:usrnet, image sigma:2
+20-06-26 18:12:52.559 : testsets/01
+20-06-26 18:12:52.564 : frame000118.jpg--> ( 432x864 )
+20-06-26 18:12:58.425 : Params number: 17016016
+20-06-26 18:12:58.435 : Model path: model_zoo/usrnet.pth
+20-06-26 18:12:58.435 : model_name:usrnet, image sigma:2
+20-06-26 18:12:58.435 : testsets/01
+20-06-26 18:12:58.440 : frame000069.jpg--> ( 432x864 )
+20-06-26 18:13:04.321 : Params number: 17016016
+20-06-26 18:13:04.331 : Model path: model_zoo/usrnet.pth
+20-06-26 18:13:04.331 : model_name:usrnet, image sigma:2
+20-06-26 18:13:04.331 : testsets/01
+20-06-26 18:13:04.336 : frame000183.jpg--> ( 432x864 )
+20-06-26 18:13:10.217 : Params number: 17016016
+20-06-26 18:13:10.227 : Model path: model_zoo/usrnet.pth
+20-06-26 18:13:10.227 : model_name:usrnet, image sigma:2
+20-06-26 18:13:10.227 : testsets/01
+20-06-26 18:13:10.232 : frame000306.jpg--> ( 432x864 )
+20-06-26 18:13:16.122 : Params number: 17016016
+20-06-26 18:13:16.133 : Model path: model_zoo/usrnet.pth
+20-06-26 18:13:16.133 : model_name:usrnet, image sigma:2
+20-06-26 18:13:16.133 : testsets/01
+20-06-26 18:13:16.138 : frame000036.jpg--> ( 432x864 )
+20-06-26 18:13:22.038 : Params number: 17016016
+20-06-26 18:13:22.048 : Model path: model_zoo/usrnet.pth
+20-06-26 18:13:22.048 : model_name:usrnet, image sigma:2
+20-06-26 18:13:22.048 : testsets/01
+20-06-26 18:13:22.053 : frame000240.jpg--> ( 432x864 )
+20-06-26 18:13:27.920 : Params number: 17016016
+20-06-26 18:13:27.930 : Model path: model_zoo/usrnet.pth
+20-06-26 18:13:27.930 : model_name:usrnet, image sigma:2
+20-06-26 18:13:27.930 : testsets/01
+20-06-26 18:13:27.935 : frame000006.jpg--> ( 432x864 )
+20-06-26 18:13:33.816 : Params number: 17016016
+20-06-26 18:13:33.826 : Model path: model_zoo/usrnet.pth
+20-06-26 18:13:33.826 : model_name:usrnet, image sigma:2
+20-06-26 18:13:33.826 : testsets/01
+20-06-26 18:13:33.831 : frame000284.jpg--> ( 432x864 )
+20-06-26 18:13:39.711 : Params number: 17016016
+20-06-26 18:13:39.721 : Model path: model_zoo/usrnet.pth
+20-06-26 18:13:39.721 : model_name:usrnet, image sigma:2
+20-06-26 18:13:39.721 : testsets/01
+20-06-26 18:13:39.725 : frame000220.jpg--> ( 432x864 )
+20-06-26 18:13:45.618 : Params number: 17016016
+20-06-26 18:13:45.628 : Model path: model_zoo/usrnet.pth
+20-06-26 18:13:45.628 : model_name:usrnet, image sigma:2
+20-06-26 18:13:45.628 : testsets/01
+20-06-26 18:13:45.633 : frame000250.jpg--> ( 432x864 )
+20-06-26 18:13:51.519 : Params number: 17016016
+20-06-26 18:13:51.530 : Model path: model_zoo/usrnet.pth
+20-06-26 18:13:51.531 : model_name:usrnet, image sigma:2
+20-06-26 18:13:51.531 : testsets/01
+20-06-26 18:13:51.536 : frame000046.jpg--> ( 432x864 )
+20-06-26 18:13:57.396 : Params number: 17016016
+20-06-26 18:13:57.406 : Model path: model_zoo/usrnet.pth
+20-06-26 18:13:57.406 : model_name:usrnet, image sigma:2
+20-06-26 18:13:57.406 : testsets/01
+20-06-26 18:13:57.411 : frame000226.jpg--> ( 432x864 )
+20-06-26 18:14:03.400 : Params number: 17016016
+20-06-26 18:14:03.412 : Model path: model_zoo/usrnet.pth
+20-06-26 18:14:03.412 : model_name:usrnet, image sigma:2
+20-06-26 18:14:03.412 : testsets/01
+20-06-26 18:14:03.417 : frame000216.jpg--> ( 432x864 )
+20-06-26 18:14:09.307 : Params number: 17016016
+20-06-26 18:14:09.317 : Model path: model_zoo/usrnet.pth
+20-06-26 18:14:09.317 : model_name:usrnet, image sigma:2
+20-06-26 18:14:09.317 : testsets/01
+20-06-26 18:14:09.322 : frame000100.jpg--> ( 432x864 )
+20-06-26 18:14:15.200 : Params number: 17016016
+20-06-26 18:14:15.210 : Model path: model_zoo/usrnet.pth
+20-06-26 18:14:15.210 : model_name:usrnet, image sigma:2
+20-06-26 18:14:15.210 : testsets/01
+20-06-26 18:14:15.215 : frame000317.jpg--> ( 432x864 )
+20-06-26 18:14:21.096 : Params number: 17016016
+20-06-26 18:14:21.106 : Model path: model_zoo/usrnet.pth
+20-06-26 18:14:21.106 : model_name:usrnet, image sigma:2
+20-06-26 18:14:21.106 : testsets/01
+20-06-26 18:14:21.111 : frame000313.jpg--> ( 432x864 )
+20-06-26 18:14:26.992 : Params number: 17016016
+20-06-26 18:14:27.002 : Model path: model_zoo/usrnet.pth
+20-06-26 18:14:27.002 : model_name:usrnet, image sigma:2
+20-06-26 18:14:27.002 : testsets/01
+20-06-26 18:14:27.007 : frame000261.jpg--> ( 432x864 )
+20-06-26 18:14:32.895 : Params number: 17016016
+20-06-26 18:14:32.905 : Model path: model_zoo/usrnet.pth
+20-06-26 18:14:32.905 : model_name:usrnet, image sigma:2
+20-06-26 18:14:32.905 : testsets/01
+20-06-26 18:14:32.910 : frame000258.jpg--> ( 432x864 )
+20-06-26 18:14:38.788 : Params number: 17016016
+20-06-26 18:14:38.800 : Model path: model_zoo/usrnet.pth
+20-06-26 18:14:38.800 : model_name:usrnet, image sigma:2
+20-06-26 18:14:38.800 : testsets/01
+20-06-26 18:14:38.804 : frame000070.jpg--> ( 432x864 )
+20-06-26 18:14:44.685 : Params number: 17016016
+20-06-26 18:14:44.696 : Model path: model_zoo/usrnet.pth
+20-06-26 18:14:44.696 : model_name:usrnet, image sigma:2
+20-06-26 18:14:44.696 : testsets/01
+20-06-26 18:14:44.701 : frame000243.jpg--> ( 432x864 )
+20-06-26 18:14:50.569 : Params number: 17016016
+20-06-26 18:14:50.579 : Model path: model_zoo/usrnet.pth
+20-06-26 18:14:50.579 : model_name:usrnet, image sigma:2
+20-06-26 18:14:50.579 : testsets/01
+20-06-26 18:14:50.584 : frame000198.jpg--> ( 432x864 )
+20-06-26 18:14:56.456 : Params number: 17016016
+20-06-26 18:14:56.466 : Model path: model_zoo/usrnet.pth
+20-06-26 18:14:56.466 : model_name:usrnet, image sigma:2
+20-06-26 18:14:56.466 : testsets/01
+20-06-26 18:14:56.471 : frame000238.jpg--> ( 432x864 )
+20-06-26 18:15:02.356 : Params number: 17016016
+20-06-26 18:15:02.366 : Model path: model_zoo/usrnet.pth
+20-06-26 18:15:02.366 : model_name:usrnet, image sigma:2
+20-06-26 18:15:02.366 : testsets/01
+20-06-26 18:15:02.371 : frame000239.jpg--> ( 432x864 )
+20-06-26 18:15:08.244 : Params number: 17016016
+20-06-26 18:15:08.254 : Model path: model_zoo/usrnet.pth
+20-06-26 18:15:08.254 : model_name:usrnet, image sigma:2
+20-06-26 18:15:08.254 : testsets/01
+20-06-26 18:15:08.259 : frame000110.jpg--> ( 432x864 )
+20-06-26 18:15:14.143 : Params number: 17016016
+20-06-26 18:15:14.155 : Model path: model_zoo/usrnet.pth
+20-06-26 18:15:14.155 : model_name:usrnet, image sigma:2
+20-06-26 18:15:14.155 : testsets/01
+20-06-26 18:15:14.160 : frame000271.jpg--> ( 432x864 )
+20-06-26 18:15:20.044 : Params number: 17016016
+20-06-26 18:15:20.054 : Model path: model_zoo/usrnet.pth
+20-06-26 18:15:20.054 : model_name:usrnet, image sigma:2
+20-06-26 18:15:20.054 : testsets/01
+20-06-26 18:15:20.059 : frame000310.jpg--> ( 432x864 )
+20-06-26 18:15:25.938 : Params number: 17016016
+20-06-26 18:15:25.950 : Model path: model_zoo/usrnet.pth
+20-06-26 18:15:25.950 : model_name:usrnet, image sigma:2
+20-06-26 18:15:25.950 : testsets/01
+20-06-26 18:15:25.954 : frame000168.jpg--> ( 432x864 )
+20-06-26 18:15:31.859 : Params number: 17016016
+20-06-26 18:15:31.871 : Model path: model_zoo/usrnet.pth
+20-06-26 18:15:31.871 : model_name:usrnet, image sigma:2
+20-06-26 18:15:31.871 : testsets/01
+20-06-26 18:15:31.876 : frame000225.jpg--> ( 432x864 )
+20-06-26 18:15:37.777 : Params number: 17016016
+20-06-26 18:15:37.787 : Model path: model_zoo/usrnet.pth
+20-06-26 18:15:37.787 : model_name:usrnet, image sigma:2
+20-06-26 18:15:37.787 : testsets/01
+20-06-26 18:15:37.792 : frame000097.jpg--> ( 432x864 )
+20-06-26 18:15:43.674 : Params number: 17016016
+20-06-26 18:15:43.685 : Model path: model_zoo/usrnet.pth
+20-06-26 18:15:43.685 : model_name:usrnet, image sigma:2
+20-06-26 18:15:43.685 : testsets/01
+20-06-26 18:15:43.690 : frame000189.jpg--> ( 432x864 )
+20-06-26 18:15:49.560 : Params number: 17016016
+20-06-26 18:15:49.570 : Model path: model_zoo/usrnet.pth
+20-06-26 18:15:49.570 : model_name:usrnet, image sigma:2
+20-06-26 18:15:49.570 : testsets/01
+20-06-26 18:15:49.575 : frame000188.jpg--> ( 432x864 )
+20-06-26 18:15:55.440 : Params number: 17016016
+20-06-26 18:15:55.451 : Model path: model_zoo/usrnet.pth
+20-06-26 18:15:55.451 : model_name:usrnet, image sigma:2
+20-06-26 18:15:55.451 : testsets/01
+20-06-26 18:15:55.456 : frame000038.jpg--> ( 432x864 )
+20-06-26 18:16:01.345 : Params number: 17016016
+20-06-26 18:16:01.355 : Model path: model_zoo/usrnet.pth
+20-06-26 18:16:01.355 : model_name:usrnet, image sigma:2
+20-06-26 18:16:01.355 : testsets/01
+20-06-26 18:16:01.360 : frame000067.jpg--> ( 432x864 )
+20-06-26 18:16:07.239 : Params number: 17016016
+20-06-26 18:16:07.249 : Model path: model_zoo/usrnet.pth
+20-06-26 18:16:07.249 : model_name:usrnet, image sigma:2
+20-06-26 18:16:07.249 : testsets/01
+20-06-26 18:16:07.254 : frame000144.jpg--> ( 432x864 )
+20-06-26 18:16:13.132 : Params number: 17016016
+20-06-26 18:16:13.144 : Model path: model_zoo/usrnet.pth
+20-06-26 18:16:13.144 : model_name:usrnet, image sigma:2
+20-06-26 18:16:13.144 : testsets/01
+20-06-26 18:16:13.149 : frame000151.jpg--> ( 432x864 )
+20-06-26 18:16:19.046 : Params number: 17016016
+20-06-26 18:16:19.056 : Model path: model_zoo/usrnet.pth
+20-06-26 18:16:19.057 : model_name:usrnet, image sigma:2
+20-06-26 18:16:19.057 : testsets/01
+20-06-26 18:16:19.062 : frame000256.jpg--> ( 432x864 )
+20-06-26 18:16:24.934 : Params number: 17016016
+20-06-26 18:16:24.944 : Model path: model_zoo/usrnet.pth
+20-06-26 18:16:24.944 : model_name:usrnet, image sigma:2
+20-06-26 18:16:24.944 : testsets/01
+20-06-26 18:16:24.949 : frame000066.jpg--> ( 432x864 )
+20-06-26 18:16:30.822 : Params number: 17016016
+20-06-26 18:16:30.832 : Model path: model_zoo/usrnet.pth
+20-06-26 18:16:30.832 : model_name:usrnet, image sigma:2
+20-06-26 18:16:30.832 : testsets/01
+20-06-26 18:16:30.837 : frame000114.jpg--> ( 432x864 )
+20-06-26 18:16:36.718 : Params number: 17016016
+20-06-26 18:16:36.728 : Model path: model_zoo/usrnet.pth
+20-06-26 18:16:36.728 : model_name:usrnet, image sigma:2
+20-06-26 18:16:36.728 : testsets/01
+20-06-26 18:16:36.733 : frame000193.jpg--> ( 432x864 )
+20-06-26 18:16:42.602 : Params number: 17016016
+20-06-26 18:16:42.612 : Model path: model_zoo/usrnet.pth
+20-06-26 18:16:42.612 : model_name:usrnet, image sigma:2
+20-06-26 18:16:42.612 : testsets/01
+20-06-26 18:16:42.616 : frame000264.jpg--> ( 432x864 )
+20-06-26 18:16:48.493 : Params number: 17016016
+20-06-26 18:16:48.503 : Model path: model_zoo/usrnet.pth
+20-06-26 18:16:48.503 : model_name:usrnet, image sigma:2
+20-06-26 18:16:48.503 : testsets/01
+20-06-26 18:16:48.508 : frame000007.jpg--> ( 432x864 )
+20-06-26 18:16:54.389 : Params number: 17016016
+20-06-26 18:16:54.399 : Model path: model_zoo/usrnet.pth
+20-06-26 18:16:54.399 : model_name:usrnet, image sigma:2
+20-06-26 18:16:54.399 : testsets/01
+20-06-26 18:16:54.404 : frame000219.jpg--> ( 432x864 )
+20-06-26 18:17:00.268 : Params number: 17016016
+20-06-26 18:17:00.278 : Model path: model_zoo/usrnet.pth
+20-06-26 18:17:00.278 : model_name:usrnet, image sigma:2
+20-06-26 18:17:00.278 : testsets/01
+20-06-26 18:17:00.283 : frame000196.jpg--> ( 432x864 )
+20-06-26 18:17:06.165 : Params number: 17016016
+20-06-26 18:17:06.175 : Model path: model_zoo/usrnet.pth
+20-06-26 18:17:06.175 : model_name:usrnet, image sigma:2
+20-06-26 18:17:06.175 : testsets/01
+20-06-26 18:17:06.179 : frame000195.jpg--> ( 432x864 )
+20-06-26 18:17:12.057 : Params number: 17016016
+20-06-26 18:17:12.067 : Model path: model_zoo/usrnet.pth
+20-06-26 18:17:12.067 : model_name:usrnet, image sigma:2
+20-06-26 18:17:12.067 : testsets/01
+20-06-26 18:17:12.072 : frame000129.jpg--> ( 432x864 )
+20-06-26 18:17:17.979 : Params number: 17016016
+20-06-26 18:17:17.989 : Model path: model_zoo/usrnet.pth
+20-06-26 18:17:17.990 : model_name:usrnet, image sigma:2
+20-06-26 18:17:17.990 : testsets/01
+20-06-26 18:17:17.994 : frame000233.jpg--> ( 432x864 )
+20-06-26 18:17:23.871 : Params number: 17016016
+20-06-26 18:17:23.881 : Model path: model_zoo/usrnet.pth
+20-06-26 18:17:23.881 : model_name:usrnet, image sigma:2
+20-06-26 18:17:23.881 : testsets/01
+20-06-26 18:17:23.886 : frame000126.jpg--> ( 432x864 )
+20-06-26 18:17:29.761 : Params number: 17016016
+20-06-26 18:17:29.771 : Model path: model_zoo/usrnet.pth
+20-06-26 18:17:29.771 : model_name:usrnet, image sigma:2
+20-06-26 18:17:29.771 : testsets/01
+20-06-26 18:17:29.776 : frame000270.jpg--> ( 432x864 )
+20-06-26 18:17:35.658 : Params number: 17016016
+20-06-26 18:17:35.668 : Model path: model_zoo/usrnet.pth
+20-06-26 18:17:35.668 : model_name:usrnet, image sigma:2
+20-06-26 18:17:35.668 : testsets/01
+20-06-26 18:17:35.673 : frame000222.jpg--> ( 432x864 )
+20-06-26 18:17:41.545 : Params number: 17016016
+20-06-26 18:17:41.555 : Model path: model_zoo/usrnet.pth
+20-06-26 18:17:41.555 : model_name:usrnet, image sigma:2
+20-06-26 18:17:41.555 : testsets/01
+20-06-26 18:17:41.560 : frame000139.jpg--> ( 432x864 )
+20-06-26 18:17:47.438 : Params number: 17016016
+20-06-26 18:17:47.448 : Model path: model_zoo/usrnet.pth
+20-06-26 18:17:47.448 : model_name:usrnet, image sigma:2
+20-06-26 18:17:47.449 : testsets/01
+20-06-26 18:17:47.453 : frame000062.jpg--> ( 432x864 )
+20-06-26 18:17:53.335 : Params number: 17016016
+20-06-26 18:17:53.345 : Model path: model_zoo/usrnet.pth
+20-06-26 18:17:53.345 : model_name:usrnet, image sigma:2
+20-06-26 18:17:53.346 : testsets/01
+20-06-26 18:17:53.350 : frame000172.jpg--> ( 432x864 )
+20-06-26 18:17:59.221 : Params number: 17016016
+20-06-26 18:17:59.231 : Model path: model_zoo/usrnet.pth
+20-06-26 18:17:59.231 : model_name:usrnet, image sigma:2
+20-06-26 18:17:59.231 : testsets/01
+20-06-26 18:17:59.236 : frame000016.jpg--> ( 432x864 )
+20-06-26 18:18:05.123 : Params number: 17016016
+20-06-26 18:18:05.133 : Model path: model_zoo/usrnet.pth
+20-06-26 18:18:05.133 : model_name:usrnet, image sigma:2
+20-06-26 18:18:05.133 : testsets/01
+20-06-26 18:18:05.138 : frame000227.jpg--> ( 432x864 )
+20-06-26 18:18:11.019 : Params number: 17016016
+20-06-26 18:18:11.029 : Model path: model_zoo/usrnet.pth
+20-06-26 18:18:11.029 : model_name:usrnet, image sigma:2
+20-06-26 18:18:11.030 : testsets/01
+20-06-26 18:18:11.034 : frame000107.jpg--> ( 432x864 )
+20-06-26 18:18:16.911 : Params number: 17016016
+20-06-26 18:18:16.921 : Model path: model_zoo/usrnet.pth
+20-06-26 18:18:16.921 : model_name:usrnet, image sigma:2
+20-06-26 18:18:16.921 : testsets/01
+20-06-26 18:18:16.926 : frame000143.jpg--> ( 432x864 )
+20-06-26 18:18:22.810 : Params number: 17016016
+20-06-26 18:18:22.820 : Model path: model_zoo/usrnet.pth
+20-06-26 18:18:22.820 : model_name:usrnet, image sigma:2
+20-06-26 18:18:22.821 : testsets/01
+20-06-26 18:18:22.825 : frame000208.jpg--> ( 432x864 )
+20-06-26 18:18:28.709 : Params number: 17016016
+20-06-26 18:18:28.719 : Model path: model_zoo/usrnet.pth
+20-06-26 18:18:28.719 : model_name:usrnet, image sigma:2
+20-06-26 18:18:28.720 : testsets/01
+20-06-26 18:18:28.724 : frame000191.jpg--> ( 432x864 )
+20-06-26 18:18:34.602 : Params number: 17016016
+20-06-26 18:18:34.612 : Model path: model_zoo/usrnet.pth
+20-06-26 18:18:34.612 : model_name:usrnet, image sigma:2
+20-06-26 18:18:34.612 : testsets/01
+20-06-26 18:18:34.617 : frame000032.jpg--> ( 432x864 )
+20-06-26 18:18:40.492 : Params number: 17016016
+20-06-26 18:18:40.502 : Model path: model_zoo/usrnet.pth
+20-06-26 18:18:40.502 : model_name:usrnet, image sigma:2
+20-06-26 18:18:40.502 : testsets/01
+20-06-26 18:18:40.507 : frame000010.jpg--> ( 432x864 )
+20-06-26 18:18:46.392 : Params number: 17016016
+20-06-26 18:18:46.402 : Model path: model_zoo/usrnet.pth
+20-06-26 18:18:46.402 : model_name:usrnet, image sigma:2
+20-06-26 18:18:46.402 : testsets/01
+20-06-26 18:18:46.407 : frame000253.jpg--> ( 432x864 )
+20-06-26 18:18:52.271 : Params number: 17016016
+20-06-26 18:18:52.281 : Model path: model_zoo/usrnet.pth
+20-06-26 18:18:52.282 : model_name:usrnet, image sigma:2
+20-06-26 18:18:52.282 : testsets/01
+20-06-26 18:18:52.286 : frame000283.jpg--> ( 432x864 )
+20-06-26 18:18:58.163 : Params number: 17016016
+20-06-26 18:18:58.173 : Model path: model_zoo/usrnet.pth
+20-06-26 18:18:58.173 : model_name:usrnet, image sigma:2
+20-06-26 18:18:58.173 : testsets/01
+20-06-26 18:18:58.178 : frame000299.jpg--> ( 432x864 )
+20-06-26 18:19:04.062 : Params number: 17016016
+20-06-26 18:19:04.072 : Model path: model_zoo/usrnet.pth
+20-06-26 18:19:04.072 : model_name:usrnet, image sigma:2
+20-06-26 18:19:04.072 : testsets/01
+20-06-26 18:19:04.077 : frame000280.jpg--> ( 432x864 )
+20-06-26 18:19:09.959 : Params number: 17016016
+20-06-26 18:19:09.970 : Model path: model_zoo/usrnet.pth
+20-06-26 18:19:09.970 : model_name:usrnet, image sigma:2
+20-06-26 18:19:09.970 : testsets/01
+20-06-26 18:19:09.975 : frame000131.jpg--> ( 432x864 )
+20-06-26 18:19:15.862 : Params number: 17016016
+20-06-26 18:19:15.872 : Model path: model_zoo/usrnet.pth
+20-06-26 18:19:15.873 : model_name:usrnet, image sigma:2
+20-06-26 18:19:15.873 : testsets/01
+20-06-26 18:19:15.877 : frame000073.jpg--> ( 432x864 )
+20-06-26 18:19:21.748 : Params number: 17016016
+20-06-26 18:19:21.758 : Model path: model_zoo/usrnet.pth
+20-06-26 18:19:21.758 : model_name:usrnet, image sigma:2
+20-06-26 18:19:21.758 : testsets/01
+20-06-26 18:19:21.764 : frame000060.jpg--> ( 432x864 )
+20-06-26 18:19:27.641 : Params number: 17016016
+20-06-26 18:19:27.653 : Model path: model_zoo/usrnet.pth
+20-06-26 18:19:27.653 : model_name:usrnet, image sigma:2
+20-06-26 18:19:27.653 : testsets/01
+20-06-26 18:19:27.657 : frame000254.jpg--> ( 432x864 )
+20-06-26 18:19:33.552 : Params number: 17016016
+20-06-26 18:19:33.562 : Model path: model_zoo/usrnet.pth
+20-06-26 18:19:33.563 : model_name:usrnet, image sigma:2
+20-06-26 18:19:33.563 : testsets/01
+20-06-26 18:19:33.567 : frame000076.jpg--> ( 432x864 )
+20-06-26 18:19:39.467 : Params number: 17016016
+20-06-26 18:19:39.478 : Model path: model_zoo/usrnet.pth
+20-06-26 18:19:39.479 : model_name:usrnet, image sigma:2
+20-06-26 18:19:39.479 : testsets/01
+20-06-26 18:19:39.483 : frame000047.jpg--> ( 432x864 )
+20-06-26 18:19:45.377 : Params number: 17016016
+20-06-26 18:19:45.387 : Model path: model_zoo/usrnet.pth
+20-06-26 18:19:45.387 : model_name:usrnet, image sigma:2
+20-06-26 18:19:45.387 : testsets/01
+20-06-26 18:19:45.392 : frame000127.jpg--> ( 432x864 )
+20-06-26 18:19:51.261 : Params number: 17016016
+20-06-26 18:19:51.271 : Model path: model_zoo/usrnet.pth
+20-06-26 18:19:51.272 : model_name:usrnet, image sigma:2
+20-06-26 18:19:51.272 : testsets/01
+20-06-26 18:19:51.276 : frame000083.jpg--> ( 432x864 )
+20-06-26 18:19:57.154 : Params number: 17016016
+20-06-26 18:19:57.164 : Model path: model_zoo/usrnet.pth
+20-06-26 18:19:57.164 : model_name:usrnet, image sigma:2
+20-06-26 18:19:57.164 : testsets/01
+20-06-26 18:19:57.169 : frame000159.jpg--> ( 432x864 )
+20-06-26 18:20:03.050 : Params number: 17016016
+20-06-26 18:20:03.060 : Model path: model_zoo/usrnet.pth
+20-06-26 18:20:03.060 : model_name:usrnet, image sigma:2
+20-06-26 18:20:03.060 : testsets/01
+20-06-26 18:20:03.065 : frame000224.jpg--> ( 432x864 )
+20-06-26 18:20:08.942 : Params number: 17016016
+20-06-26 18:20:08.952 : Model path: model_zoo/usrnet.pth
+20-06-26 18:20:08.952 : model_name:usrnet, image sigma:2
+20-06-26 18:20:08.952 : testsets/01
+20-06-26 18:20:08.957 : frame000156.jpg--> ( 432x864 )
+20-06-26 18:20:14.834 : Params number: 17016016
+20-06-26 18:20:14.844 : Model path: model_zoo/usrnet.pth
+20-06-26 18:20:14.845 : model_name:usrnet, image sigma:2
+20-06-26 18:20:14.845 : testsets/01
+20-06-26 18:20:14.849 : frame000003.jpg--> ( 432x864 )
+20-06-26 18:20:20.727 : Params number: 17016016
+20-06-26 18:20:20.737 : Model path: model_zoo/usrnet.pth
+20-06-26 18:20:20.737 : model_name:usrnet, image sigma:2
+20-06-26 18:20:20.737 : testsets/01
+20-06-26 18:20:20.742 : frame000041.jpg--> ( 432x864 )
+20-06-26 18:20:26.615 : Params number: 17016016
+20-06-26 18:20:26.625 : Model path: model_zoo/usrnet.pth
+20-06-26 18:20:26.625 : model_name:usrnet, image sigma:2
+20-06-26 18:20:26.625 : testsets/01
+20-06-26 18:20:26.630 : frame000037.jpg--> ( 432x864 )
+20-06-26 18:20:32.511 : Params number: 17016016
+20-06-26 18:20:32.521 : Model path: model_zoo/usrnet.pth
+20-06-26 18:20:32.521 : model_name:usrnet, image sigma:2
+20-06-26 18:20:32.521 : testsets/01
+20-06-26 18:20:32.526 : frame000108.jpg--> ( 432x864 )
+20-06-26 18:20:38.407 : Params number: 17016016
+20-06-26 18:20:38.417 : Model path: model_zoo/usrnet.pth
+20-06-26 18:20:38.417 : model_name:usrnet, image sigma:2
+20-06-26 18:20:38.417 : testsets/01
+20-06-26 18:20:38.422 : frame000056.jpg--> ( 432x864 )
+20-06-26 18:20:44.300 : Params number: 17016016
+20-06-26 18:20:44.310 : Model path: model_zoo/usrnet.pth
+20-06-26 18:20:44.310 : model_name:usrnet, image sigma:2
+20-06-26 18:20:44.310 : testsets/01
+20-06-26 18:20:44.315 : frame000099.jpg--> ( 432x864 )
+20-06-26 18:20:50.191 : Params number: 17016016
+20-06-26 18:20:50.203 : Model path: model_zoo/usrnet.pth
+20-06-26 18:20:50.203 : model_name:usrnet, image sigma:2
+20-06-26 18:20:50.204 : testsets/01
+20-06-26 18:20:50.208 : frame000001.jpg--> ( 432x864 )
+20-06-26 18:20:56.103 : Params number: 17016016
+20-06-26 18:20:56.113 : Model path: model_zoo/usrnet.pth
+20-06-26 18:20:56.113 : model_name:usrnet, image sigma:2
+20-06-26 18:20:56.113 : testsets/01
+20-06-26 18:20:56.118 : frame000236.jpg--> ( 432x864 )
+20-06-26 18:21:02.002 : Params number: 17016016
+20-06-26 18:21:02.013 : Model path: model_zoo/usrnet.pth
+20-06-26 18:21:02.013 : model_name:usrnet, image sigma:2
+20-06-26 18:21:02.013 : testsets/01
+20-06-26 18:21:02.017 : frame000248.jpg--> ( 432x864 )
+20-06-26 18:21:07.892 : Params number: 17016016
+20-06-26 18:21:07.902 : Model path: model_zoo/usrnet.pth
+20-06-26 18:21:07.902 : model_name:usrnet, image sigma:2
+20-06-26 18:21:07.902 : testsets/01
+20-06-26 18:21:07.907 : frame000142.jpg--> ( 432x864 )
+20-06-26 18:21:13.784 : Params number: 17016016
+20-06-26 18:21:13.796 : Model path: model_zoo/usrnet.pth
+20-06-26 18:21:13.796 : model_name:usrnet, image sigma:2
+20-06-26 18:21:13.796 : testsets/01
+20-06-26 18:21:13.801 : frame000169.jpg--> ( 432x864 )
+20-06-26 18:21:19.690 : Params number: 17016016
+20-06-26 18:21:19.700 : Model path: model_zoo/usrnet.pth
+20-06-26 18:21:19.700 : model_name:usrnet, image sigma:2
+20-06-26 18:21:19.700 : testsets/01
+20-06-26 18:21:19.705 : frame000057.jpg--> ( 432x864 )
+20-06-26 18:21:25.586 : Params number: 17016016
+20-06-26 18:21:25.596 : Model path: model_zoo/usrnet.pth
+20-06-26 18:21:25.596 : model_name:usrnet, image sigma:2
+20-06-26 18:21:25.596 : testsets/01
+20-06-26 18:21:25.601 : frame000181.jpg--> ( 432x864 )
+20-06-26 18:21:31.464 : Params number: 17016016
+20-06-26 18:21:31.474 : Model path: model_zoo/usrnet.pth
+20-06-26 18:21:31.474 : model_name:usrnet, image sigma:2
+20-06-26 18:21:31.474 : testsets/01
+20-06-26 18:21:31.479 : frame000135.jpg--> ( 432x864 )
+20-06-26 18:21:37.354 : Params number: 17016016
+20-06-26 18:21:37.364 : Model path: model_zoo/usrnet.pth
+20-06-26 18:21:37.364 : model_name:usrnet, image sigma:2
+20-06-26 18:21:37.364 : testsets/01
+20-06-26 18:21:37.369 : frame000237.jpg--> ( 432x864 )
+20-06-26 18:21:43.238 : Params number: 17016016
+20-06-26 18:21:43.248 : Model path: model_zoo/usrnet.pth
+20-06-26 18:21:43.248 : model_name:usrnet, image sigma:2
+20-06-26 18:21:43.248 : testsets/01
+20-06-26 18:21:43.253 : frame000267.jpg--> ( 432x864 )
+20-06-26 18:21:49.123 : Params number: 17016016
+20-06-26 18:21:49.133 : Model path: model_zoo/usrnet.pth
+20-06-26 18:21:49.133 : model_name:usrnet, image sigma:2
+20-06-26 18:21:49.133 : testsets/01
+20-06-26 18:21:49.138 : frame000290.jpg--> ( 432x864 )
+20-06-26 18:21:55.016 : Params number: 17016016
+20-06-26 18:21:55.026 : Model path: model_zoo/usrnet.pth
+20-06-26 18:21:55.027 : model_name:usrnet, image sigma:2
+20-06-26 18:21:55.027 : testsets/01
+20-06-26 18:21:55.031 : frame000015.jpg--> ( 432x864 )
+20-06-26 18:22:00.901 : Params number: 17016016
+20-06-26 18:22:00.911 : Model path: model_zoo/usrnet.pth
+20-06-26 18:22:00.912 : model_name:usrnet, image sigma:2
+20-06-26 18:22:00.912 : testsets/01
+20-06-26 18:22:00.916 : frame000164.jpg--> ( 432x864 )
+20-06-26 18:22:06.783 : Params number: 17016016
+20-06-26 18:22:06.793 : Model path: model_zoo/usrnet.pth
+20-06-26 18:22:06.794 : model_name:usrnet, image sigma:2
+20-06-26 18:22:06.794 : testsets/01
+20-06-26 18:22:06.798 : frame000024.jpg--> ( 432x864 )
+20-06-26 18:22:12.682 : Params number: 17016016
+20-06-26 18:22:12.693 : Model path: model_zoo/usrnet.pth
+20-06-26 18:22:12.693 : model_name:usrnet, image sigma:2
+20-06-26 18:22:12.693 : testsets/01
+20-06-26 18:22:12.698 : frame000145.jpg--> ( 432x864 )
+20-06-26 18:22:18.573 : Params number: 17016016
+20-06-26 18:22:18.583 : Model path: model_zoo/usrnet.pth
+20-06-26 18:22:18.583 : model_name:usrnet, image sigma:2
+20-06-26 18:22:18.583 : testsets/01
+20-06-26 18:22:18.588 : frame000119.jpg--> ( 432x864 )
+20-06-26 18:22:24.466 : Params number: 17016016
+20-06-26 18:22:24.478 : Model path: model_zoo/usrnet.pth
+20-06-26 18:22:24.478 : model_name:usrnet, image sigma:2
+20-06-26 18:22:24.478 : testsets/01
+20-06-26 18:22:24.483 : frame000044.jpg--> ( 432x864 )
+20-06-26 18:22:30.380 : Params number: 17016016
+20-06-26 18:22:30.390 : Model path: model_zoo/usrnet.pth
+20-06-26 18:22:30.390 : model_name:usrnet, image sigma:2
+20-06-26 18:22:30.390 : testsets/01
+20-06-26 18:22:30.395 : frame000295.jpg--> ( 432x864 )
+20-06-26 18:22:36.272 : Params number: 17016016
+20-06-26 18:22:36.282 : Model path: model_zoo/usrnet.pth
+20-06-26 18:22:36.282 : model_name:usrnet, image sigma:2
+20-06-26 18:22:36.282 : testsets/01
+20-06-26 18:22:36.287 : frame000251.jpg--> ( 432x864 )
+20-06-26 18:22:42.166 : Params number: 17016016
+20-06-26 18:22:42.176 : Model path: model_zoo/usrnet.pth
+20-06-26 18:22:42.176 : model_name:usrnet, image sigma:2
+20-06-26 18:22:42.177 : testsets/01
+20-06-26 18:22:42.181 : frame000221.jpg--> ( 432x864 )
+20-06-26 18:22:48.053 : Params number: 17016016
+20-06-26 18:22:48.063 : Model path: model_zoo/usrnet.pth
+20-06-26 18:22:48.063 : model_name:usrnet, image sigma:2
+20-06-26 18:22:48.063 : testsets/01
+20-06-26 18:22:48.068 : frame000276.jpg--> ( 432x864 )
+20-06-26 18:22:53.943 : Params number: 17016016
+20-06-26 18:22:53.954 : Model path: model_zoo/usrnet.pth
+20-06-26 18:22:53.954 : model_name:usrnet, image sigma:2
+20-06-26 18:22:53.954 : testsets/01
+20-06-26 18:22:53.959 : frame000174.jpg--> ( 432x864 )
+20-06-26 18:22:59.838 : Params number: 17016016
+20-06-26 18:22:59.848 : Model path: model_zoo/usrnet.pth
+20-06-26 18:22:59.848 : model_name:usrnet, image sigma:2
+20-06-26 18:22:59.849 : testsets/01
+20-06-26 18:22:59.853 : frame000300.jpg--> ( 432x864 )
+20-06-26 18:23:05.732 : Params number: 17016016
+20-06-26 18:23:05.742 : Model path: model_zoo/usrnet.pth
+20-06-26 18:23:05.743 : model_name:usrnet, image sigma:2
+20-06-26 18:23:05.743 : testsets/01
+20-06-26 18:23:05.747 : frame000035.jpg--> ( 432x864 )
+20-06-26 18:23:11.634 : Params number: 17016016
+20-06-26 18:23:11.645 : Model path: model_zoo/usrnet.pth
+20-06-26 18:23:11.645 : model_name:usrnet, image sigma:2
+20-06-26 18:23:11.645 : testsets/01
+20-06-26 18:23:11.650 : frame000031.jpg--> ( 432x864 )
+20-06-26 18:23:17.550 : Params number: 17016016
+20-06-26 18:23:17.560 : Model path: model_zoo/usrnet.pth
+20-06-26 18:23:17.560 : model_name:usrnet, image sigma:2
+20-06-26 18:23:17.560 : testsets/01
+20-06-26 18:23:17.565 : frame000113.jpg--> ( 432x864 )
+20-06-26 18:23:23.449 : Params number: 17016016
+20-06-26 18:23:23.459 : Model path: model_zoo/usrnet.pth
+20-06-26 18:23:23.459 : model_name:usrnet, image sigma:2
+20-06-26 18:23:23.459 : testsets/01
+20-06-26 18:23:23.464 : frame000093.jpg--> ( 432x864 )
+20-06-26 18:23:29.339 : Params number: 17016016
+20-06-26 18:23:29.349 : Model path: model_zoo/usrnet.pth
+20-06-26 18:23:29.349 : model_name:usrnet, image sigma:2
+20-06-26 18:23:29.349 : testsets/01
+20-06-26 18:23:29.354 : frame000121.jpg--> ( 432x864 )
+20-06-26 18:23:35.222 : Params number: 17016016
+20-06-26 18:23:35.232 : Model path: model_zoo/usrnet.pth
+20-06-26 18:23:35.233 : model_name:usrnet, image sigma:2
+20-06-26 18:23:35.233 : testsets/01
+20-06-26 18:23:35.237 : frame000242.jpg--> ( 432x864 )
+20-06-26 18:23:41.123 : Params number: 17016016
+20-06-26 18:23:41.133 : Model path: model_zoo/usrnet.pth
+20-06-26 18:23:41.133 : model_name:usrnet, image sigma:2
+20-06-26 18:23:41.133 : testsets/01
+20-06-26 18:23:41.138 : frame000186.jpg--> ( 432x864 )
+20-06-26 18:23:47.015 : Params number: 17016016
+20-06-26 18:23:47.026 : Model path: model_zoo/usrnet.pth
+20-06-26 18:23:47.026 : model_name:usrnet, image sigma:2
+20-06-26 18:23:47.026 : testsets/01
+20-06-26 18:23:47.030 : frame000179.jpg--> ( 432x864 )
+20-06-26 18:23:53.050 : Params number: 17016016
+20-06-26 18:23:53.060 : Model path: model_zoo/usrnet.pth
+20-06-26 18:23:53.060 : model_name:usrnet, image sigma:2
+20-06-26 18:23:53.060 : testsets/01
+20-06-26 18:23:53.065 : frame000095.jpg--> ( 432x864 )
+20-06-26 18:23:58.945 : Params number: 17016016
+20-06-26 18:23:58.955 : Model path: model_zoo/usrnet.pth
+20-06-26 18:23:58.955 : model_name:usrnet, image sigma:2
+20-06-26 18:23:58.955 : testsets/01
+20-06-26 18:23:58.960 : frame000289.jpg--> ( 432x864 )
+20-06-26 18:24:04.837 : Params number: 17016016
+20-06-26 18:24:04.847 : Model path: model_zoo/usrnet.pth
+20-06-26 18:24:04.848 : model_name:usrnet, image sigma:2
+20-06-26 18:24:04.848 : testsets/01
+20-06-26 18:24:04.852 : frame000232.jpg--> ( 432x864 )
+20-06-26 18:24:10.732 : Params number: 17016016
+20-06-26 18:24:10.742 : Model path: model_zoo/usrnet.pth
+20-06-26 18:24:10.742 : model_name:usrnet, image sigma:2
+20-06-26 18:24:10.742 : testsets/01
+20-06-26 18:24:10.747 : frame000042.jpg--> ( 432x864 )
+20-06-26 18:24:16.624 : Params number: 17016016
+20-06-26 18:24:16.634 : Model path: model_zoo/usrnet.pth
+20-06-26 18:24:16.634 : model_name:usrnet, image sigma:2
+20-06-26 18:24:16.634 : testsets/01
+20-06-26 18:24:16.639 : frame000207.jpg--> ( 432x864 )
+20-06-26 18:24:22.512 : Params number: 17016016
+20-06-26 18:24:22.522 : Model path: model_zoo/usrnet.pth
+20-06-26 18:24:22.523 : model_name:usrnet, image sigma:2
+20-06-26 18:24:22.523 : testsets/01
+20-06-26 18:24:22.527 : frame000165.jpg--> ( 432x864 )
+20-06-26 18:24:28.390 : Params number: 17016016
+20-06-26 18:24:28.400 : Model path: model_zoo/usrnet.pth
+20-06-26 18:24:28.401 : model_name:usrnet, image sigma:2
+20-06-26 18:24:28.401 : testsets/01
+20-06-26 18:24:28.405 : frame000088.jpg--> ( 432x864 )
+20-06-26 18:24:34.281 : Params number: 17016016
+20-06-26 18:24:34.291 : Model path: model_zoo/usrnet.pth
+20-06-26 18:24:34.291 : model_name:usrnet, image sigma:2
+20-06-26 18:24:34.291 : testsets/01
+20-06-26 18:24:34.296 : frame000285.jpg--> ( 432x864 )
+20-06-26 18:24:40.170 : Params number: 17016016
+20-06-26 18:24:40.181 : Model path: model_zoo/usrnet.pth
+20-06-26 18:24:40.181 : model_name:usrnet, image sigma:2
+20-06-26 18:24:40.181 : testsets/01
+20-06-26 18:24:40.186 : frame000245.jpg--> ( 432x864 )
+20-06-26 18:24:46.053 : Params number: 17016016
+20-06-26 18:24:46.063 : Model path: model_zoo/usrnet.pth
+20-06-26 18:24:46.063 : model_name:usrnet, image sigma:2
+20-06-26 18:24:46.063 : testsets/01
+20-06-26 18:24:46.068 : frame000123.jpg--> ( 432x864 )
+20-06-26 18:24:51.945 : Params number: 17016016
+20-06-26 18:24:51.955 : Model path: model_zoo/usrnet.pth
+20-06-26 18:24:51.956 : model_name:usrnet, image sigma:2
+20-06-26 18:24:51.956 : testsets/01
+20-06-26 18:24:51.960 : frame000170.jpg--> ( 432x864 )
+20-06-26 18:24:57.834 : Params number: 17016016
+20-06-26 18:24:57.844 : Model path: model_zoo/usrnet.pth
+20-06-26 18:24:57.844 : model_name:usrnet, image sigma:2
+20-06-26 18:24:57.844 : testsets/01
+20-06-26 18:24:57.849 : frame000171.jpg--> ( 432x864 )
+20-06-26 18:25:03.729 : Params number: 17016016
+20-06-26 18:25:03.741 : Model path: model_zoo/usrnet.pth
+20-06-26 18:25:03.741 : model_name:usrnet, image sigma:2
+20-06-26 18:25:03.741 : testsets/01
+20-06-26 18:25:03.746 : frame000154.jpg--> ( 432x864 )
+20-06-26 18:25:09.637 : Params number: 17016016
+20-06-26 18:25:09.647 : Model path: model_zoo/usrnet.pth
+20-06-26 18:25:09.647 : model_name:usrnet, image sigma:2
+20-06-26 18:25:09.647 : testsets/01
+20-06-26 18:25:09.652 : frame000008.jpg--> ( 432x864 )
+20-06-26 18:25:15.533 : Params number: 17016016
+20-06-26 18:25:15.543 : Model path: model_zoo/usrnet.pth
+20-06-26 18:25:15.543 : model_name:usrnet, image sigma:2
+20-06-26 18:25:15.543 : testsets/01
+20-06-26 18:25:15.548 : frame000014.jpg--> ( 432x864 )
+20-06-26 18:25:21.414 : Params number: 17016016
+20-06-26 18:25:21.424 : Model path: model_zoo/usrnet.pth
+20-06-26 18:25:21.425 : model_name:usrnet, image sigma:2
+20-06-26 18:25:21.425 : testsets/01
+20-06-26 18:25:21.429 : frame000152.jpg--> ( 432x864 )
+20-06-26 18:25:27.309 : Params number: 17016016
+20-06-26 18:25:27.319 : Model path: model_zoo/usrnet.pth
+20-06-26 18:25:27.319 : model_name:usrnet, image sigma:2
+20-06-26 18:25:27.319 : testsets/01
+20-06-26 18:25:27.324 : frame000288.jpg--> ( 432x864 )
+20-06-26 18:25:33.206 : Params number: 17016016
+20-06-26 18:25:33.216 : Model path: model_zoo/usrnet.pth
+20-06-26 18:25:33.216 : model_name:usrnet, image sigma:2
+20-06-26 18:25:33.216 : testsets/01
+20-06-26 18:25:33.221 : frame000187.jpg--> ( 432x864 )
+20-06-26 18:25:39.086 : Params number: 17016016
+20-06-26 18:25:39.096 : Model path: model_zoo/usrnet.pth
+20-06-26 18:25:39.096 : model_name:usrnet, image sigma:2
+20-06-26 18:25:39.096 : testsets/01
+20-06-26 18:25:39.101 : frame000223.jpg--> ( 432x864 )
+20-06-26 18:25:44.968 : Params number: 17016016
+20-06-26 18:25:44.978 : Model path: model_zoo/usrnet.pth
+20-06-26 18:25:44.978 : model_name:usrnet, image sigma:2
+20-06-26 18:25:44.978 : testsets/01
+20-06-26 18:25:44.983 : frame000265.jpg--> ( 432x864 )
+20-06-26 18:25:50.859 : Params number: 17016016
+20-06-26 18:25:50.869 : Model path: model_zoo/usrnet.pth
+20-06-26 18:25:50.869 : model_name:usrnet, image sigma:2
+20-06-26 18:25:50.869 : testsets/01
+20-06-26 18:25:50.874 : frame000173.jpg--> ( 432x864 )
+20-06-26 18:25:56.755 : Params number: 17016016
+20-06-26 18:25:56.766 : Model path: model_zoo/usrnet.pth
+20-06-26 18:25:56.766 : model_name:usrnet, image sigma:2
+20-06-26 18:25:56.766 : testsets/01
+20-06-26 18:25:56.771 : frame000124.jpg--> ( 432x864 )
+20-06-26 18:26:02.661 : Params number: 17016016
+20-06-26 18:26:02.671 : Model path: model_zoo/usrnet.pth
+20-06-26 18:26:02.671 : model_name:usrnet, image sigma:2
+20-06-26 18:26:02.671 : testsets/01
+20-06-26 18:26:02.676 : frame000125.jpg--> ( 432x864 )
+20-06-26 18:26:08.546 : Params number: 17016016
+20-06-26 18:26:08.556 : Model path: model_zoo/usrnet.pth
+20-06-26 18:26:08.556 : model_name:usrnet, image sigma:2
+20-06-26 18:26:08.556 : testsets/01
+20-06-26 18:26:08.561 : frame000190.jpg--> ( 432x864 )
+20-06-26 18:26:14.445 : Params number: 17016016
+20-06-26 18:26:14.455 : Model path: model_zoo/usrnet.pth
+20-06-26 18:26:14.455 : model_name:usrnet, image sigma:2
+20-06-26 18:26:14.455 : testsets/01
+20-06-26 18:26:14.460 : frame000275.jpg--> ( 432x864 )
+20-06-26 18:26:20.345 : Params number: 17016016
+20-06-26 18:26:20.355 : Model path: model_zoo/usrnet.pth
+20-06-26 18:26:20.355 : model_name:usrnet, image sigma:2
+20-06-26 18:26:20.355 : testsets/01
+20-06-26 18:26:20.360 : frame000043.jpg--> ( 432x864 )
+20-06-26 18:26:26.230 : Params number: 17016016
+20-06-26 18:26:26.240 : Model path: model_zoo/usrnet.pth
+20-06-26 18:26:26.240 : model_name:usrnet, image sigma:2
+20-06-26 18:26:26.240 : testsets/01
+20-06-26 18:26:26.245 : frame000269.jpg--> ( 432x864 )
+20-06-26 18:26:32.118 : Params number: 17016016
+20-06-26 18:26:32.128 : Model path: model_zoo/usrnet.pth
+20-06-26 18:26:32.128 : model_name:usrnet, image sigma:2
+20-06-26 18:26:32.128 : testsets/01
+20-06-26 18:26:32.133 : frame000011.jpg--> ( 432x864 )
+20-06-26 18:26:38.003 : Params number: 17016016
+20-06-26 18:26:38.013 : Model path: model_zoo/usrnet.pth
+20-06-26 18:26:38.013 : model_name:usrnet, image sigma:2
+20-06-26 18:26:38.013 : testsets/01
+20-06-26 18:26:38.018 : frame000182.jpg--> ( 432x864 )
+20-06-26 18:26:43.888 : Params number: 17016016
+20-06-26 18:26:43.898 : Model path: model_zoo/usrnet.pth
+20-06-26 18:26:43.898 : model_name:usrnet, image sigma:2
+20-06-26 18:26:43.898 : testsets/01
+20-06-26 18:26:43.903 : frame000177.jpg--> ( 432x864 )
+20-06-26 18:26:49.782 : Params number: 17016016
+20-06-26 18:26:49.794 : Model path: model_zoo/usrnet.pth
+20-06-26 18:26:49.794 : model_name:usrnet, image sigma:2
+20-06-26 18:26:49.794 : testsets/01
+20-06-26 18:26:49.799 : frame000078.jpg--> ( 432x864 )
+20-06-26 18:26:55.685 : Params number: 17016016
+20-06-26 18:26:55.696 : Model path: model_zoo/usrnet.pth
+20-06-26 18:26:55.696 : model_name:usrnet, image sigma:2
+20-06-26 18:26:55.696 : testsets/01
+20-06-26 18:26:55.700 : frame000137.jpg--> ( 432x864 )
+20-06-26 18:27:01.569 : Params number: 17016016
+20-06-26 18:27:01.579 : Model path: model_zoo/usrnet.pth
+20-06-26 18:27:01.579 : model_name:usrnet, image sigma:2
+20-06-26 18:27:01.579 : testsets/01
+20-06-26 18:27:01.584 : frame000053.jpg--> ( 432x864 )
+20-06-26 18:27:07.454 : Params number: 17016016
+20-06-26 18:27:07.464 : Model path: model_zoo/usrnet.pth
+20-06-26 18:27:07.464 : model_name:usrnet, image sigma:2
+20-06-26 18:27:07.464 : testsets/01
+20-06-26 18:27:07.469 : frame000081.jpg--> ( 432x864 )
+20-06-26 18:27:13.336 : Params number: 17016016
+20-06-26 18:27:13.346 : Model path: model_zoo/usrnet.pth
+20-06-26 18:27:13.346 : model_name:usrnet, image sigma:2
+20-06-26 18:27:13.346 : testsets/01
+20-06-26 18:27:13.351 : frame000045.jpg--> ( 432x864 )
+20-06-26 18:27:19.230 : Params number: 17016016
+20-06-26 18:27:19.240 : Model path: model_zoo/usrnet.pth
+20-06-26 18:27:19.240 : model_name:usrnet, image sigma:2
+20-06-26 18:27:19.240 : testsets/01
+20-06-26 18:27:19.245 : frame000199.jpg--> ( 432x864 )
+20-06-26 18:27:25.124 : Params number: 17016016
+20-06-26 18:27:25.134 : Model path: model_zoo/usrnet.pth
+20-06-26 18:27:25.134 : model_name:usrnet, image sigma:2
+20-06-26 18:27:25.134 : testsets/01
+20-06-26 18:27:25.139 : frame000278.jpg--> ( 432x864 )
+20-06-26 18:27:31.022 : Params number: 17016016
+20-06-26 18:27:31.032 : Model path: model_zoo/usrnet.pth
+20-06-26 18:27:31.033 : model_name:usrnet, image sigma:2
+20-06-26 18:27:31.033 : testsets/01
+20-06-26 18:27:31.038 : frame000061.jpg--> ( 432x864 )
+20-06-26 18:27:36.915 : Params number: 17016016
+20-06-26 18:27:36.925 : Model path: model_zoo/usrnet.pth
+20-06-26 18:27:36.925 : model_name:usrnet, image sigma:2
+20-06-26 18:27:36.925 : testsets/01
+20-06-26 18:27:36.930 : frame000249.jpg--> ( 432x864 )
+20-06-26 18:27:42.804 : Params number: 17016016
+20-06-26 18:27:42.814 : Model path: model_zoo/usrnet.pth
+20-06-26 18:27:42.814 : model_name:usrnet, image sigma:2
+20-06-26 18:27:42.814 : testsets/01
+20-06-26 18:27:42.819 : frame000002.jpg--> ( 432x864 )
+20-06-26 18:27:48.695 : Params number: 17016016
+20-06-26 18:27:48.705 : Model path: model_zoo/usrnet.pth
+20-06-26 18:27:48.705 : model_name:usrnet, image sigma:2
+20-06-26 18:27:48.705 : testsets/01
+20-06-26 18:27:48.710 : frame000063.jpg--> ( 432x864 )
+20-06-26 18:27:54.579 : Params number: 17016016
+20-06-26 18:27:54.589 : Model path: model_zoo/usrnet.pth
+20-06-26 18:27:54.589 : model_name:usrnet, image sigma:2
+20-06-26 18:27:54.589 : testsets/01
+20-06-26 18:27:54.594 : frame000096.jpg--> ( 432x864 )
+20-06-26 18:28:00.473 : Params number: 17016016
+20-06-26 18:28:00.483 : Model path: model_zoo/usrnet.pth
+20-06-26 18:28:00.483 : model_name:usrnet, image sigma:2
+20-06-26 18:28:00.483 : testsets/01
+20-06-26 18:28:00.488 : frame000087.jpg--> ( 432x864 )
+20-06-26 18:28:06.368 : Params number: 17016016
+20-06-26 18:28:06.378 : Model path: model_zoo/usrnet.pth
+20-06-26 18:28:06.378 : model_name:usrnet, image sigma:2
+20-06-26 18:28:06.378 : testsets/01
+20-06-26 18:28:06.383 : frame000294.jpg--> ( 432x864 )
+20-06-26 18:28:12.251 : Params number: 17016016
+20-06-26 18:28:12.261 : Model path: model_zoo/usrnet.pth
+20-06-26 18:28:12.261 : model_name:usrnet, image sigma:2
+20-06-26 18:28:12.261 : testsets/01
+20-06-26 18:28:12.265 : frame000138.jpg--> ( 432x864 )
+20-06-26 18:28:18.141 : Params number: 17016016
+20-06-26 18:28:18.152 : Model path: model_zoo/usrnet.pth
+20-06-26 18:28:18.152 : model_name:usrnet, image sigma:2
+20-06-26 18:28:18.152 : testsets/01
+20-06-26 18:28:18.157 : frame000175.jpg--> ( 432x864 )
+20-06-26 18:28:24.053 : Params number: 17016016
+20-06-26 18:28:24.063 : Model path: model_zoo/usrnet.pth
+20-06-26 18:28:24.063 : model_name:usrnet, image sigma:2
+20-06-26 18:28:24.063 : testsets/01
+20-06-26 18:28:24.068 : frame000115.jpg--> ( 432x864 )
+20-06-26 18:28:29.950 : Params number: 17016016
+20-06-26 18:28:29.960 : Model path: model_zoo/usrnet.pth
+20-06-26 18:28:29.960 : model_name:usrnet, image sigma:2
+20-06-26 18:28:29.960 : testsets/01
+20-06-26 18:28:29.965 : frame000287.jpg--> ( 432x864 )
+20-06-26 18:28:35.856 : Params number: 17016016
+20-06-26 18:28:35.866 : Model path: model_zoo/usrnet.pth
+20-06-26 18:28:35.866 : model_name:usrnet, image sigma:2
+20-06-26 18:28:35.866 : testsets/01
+20-06-26 18:28:35.871 : frame000051.jpg--> ( 432x864 )
+20-06-26 18:28:41.752 : Params number: 17016016
+20-06-26 18:28:41.762 : Model path: model_zoo/usrnet.pth
+20-06-26 18:28:41.762 : model_name:usrnet, image sigma:2
+20-06-26 18:28:41.762 : testsets/01
+20-06-26 18:28:41.767 : frame000309.jpg--> ( 432x864 )
+20-06-26 18:28:47.639 : Params number: 17016016
+20-06-26 18:28:47.649 : Model path: model_zoo/usrnet.pth
+20-06-26 18:28:47.649 : model_name:usrnet, image sigma:2
+20-06-26 18:28:47.649 : testsets/01
+20-06-26 18:28:47.654 : frame000200.jpg--> ( 432x864 )
+20-06-26 18:28:53.539 : Params number: 17016016
+20-06-26 18:28:53.551 : Model path: model_zoo/usrnet.pth
+20-06-26 18:28:53.551 : model_name:usrnet, image sigma:2
+20-06-26 18:28:53.551 : testsets/01
+20-06-26 18:28:53.556 : frame000272.jpg--> ( 432x864 )
+20-06-26 18:28:59.448 : Params number: 17016016
+20-06-26 18:28:59.458 : Model path: model_zoo/usrnet.pth
+20-06-26 18:28:59.458 : model_name:usrnet, image sigma:2
+20-06-26 18:28:59.458 : testsets/01
+20-06-26 18:28:59.463 : frame000091.jpg--> ( 432x864 )
+20-06-26 18:29:05.343 : Params number: 17016016
+20-06-26 18:29:05.353 : Model path: model_zoo/usrnet.pth
+20-06-26 18:29:05.353 : model_name:usrnet, image sigma:2
+20-06-26 18:29:05.353 : testsets/01
+20-06-26 18:29:05.358 : frame000068.jpg--> ( 432x864 )
+20-06-26 18:29:11.228 : Params number: 17016016
+20-06-26 18:29:11.238 : Model path: model_zoo/usrnet.pth
+20-06-26 18:29:11.238 : model_name:usrnet, image sigma:2
+20-06-26 18:29:11.239 : testsets/01
+20-06-26 18:29:11.243 : frame000252.jpg--> ( 432x864 )
+20-06-26 18:29:17.122 : Params number: 17016016
+20-06-26 18:29:17.133 : Model path: model_zoo/usrnet.pth
+20-06-26 18:29:17.133 : model_name:usrnet, image sigma:2
+20-06-26 18:29:17.133 : testsets/01
+20-06-26 18:29:17.138 : frame000080.jpg--> ( 432x864 )
+20-06-26 18:29:23.027 : Params number: 17016016
+20-06-26 18:29:23.037 : Model path: model_zoo/usrnet.pth
+20-06-26 18:29:23.037 : model_name:usrnet, image sigma:2
+20-06-26 18:29:23.037 : testsets/01
+20-06-26 18:29:23.041 : frame000025.jpg--> ( 432x864 )
+20-06-26 18:29:28.928 : Params number: 17016016
+20-06-26 18:29:28.938 : Model path: model_zoo/usrnet.pth
+20-06-26 18:29:28.938 : model_name:usrnet, image sigma:2
+20-06-26 18:29:28.939 : testsets/01
+20-06-26 18:29:28.943 : frame000149.jpg--> ( 432x864 )
+20-06-26 18:29:34.805 : Params number: 17016016
+20-06-26 18:29:34.815 : Model path: model_zoo/usrnet.pth
+20-06-26 18:29:34.815 : model_name:usrnet, image sigma:2
+20-06-26 18:29:34.815 : testsets/01
+20-06-26 18:29:34.820 : frame000120.jpg--> ( 432x864 )
+20-06-26 18:29:40.694 : Params number: 17016016
+20-06-26 18:29:40.704 : Model path: model_zoo/usrnet.pth
+20-06-26 18:29:40.704 : model_name:usrnet, image sigma:2
+20-06-26 18:29:40.704 : testsets/01
+20-06-26 18:29:40.709 : frame000163.jpg--> ( 432x864 )
+20-06-26 18:29:46.581 : Params number: 17016016
+20-06-26 18:29:46.591 : Model path: model_zoo/usrnet.pth
+20-06-26 18:29:46.591 : model_name:usrnet, image sigma:2
+20-06-26 18:29:46.591 : testsets/01
+20-06-26 18:29:46.596 : frame000197.jpg--> ( 432x864 )
+20-06-26 18:29:52.475 : Params number: 17016016
+20-06-26 18:29:52.485 : Model path: model_zoo/usrnet.pth
+20-06-26 18:29:52.485 : model_name:usrnet, image sigma:2
+20-06-26 18:29:52.485 : testsets/01
+20-06-26 18:29:52.490 : frame000128.jpg--> ( 432x864 )
+20-06-26 18:29:58.365 : Params number: 17016016
+20-06-26 18:29:58.375 : Model path: model_zoo/usrnet.pth
+20-06-26 18:29:58.375 : model_name:usrnet, image sigma:2
+20-06-26 18:29:58.375 : testsets/01
+20-06-26 18:29:58.380 : frame000103.jpg--> ( 432x864 )
+20-06-26 18:30:04.258 : Params number: 17016016
+20-06-26 18:30:04.269 : Model path: model_zoo/usrnet.pth
+20-06-26 18:30:04.269 : model_name:usrnet, image sigma:2
+20-06-26 18:30:04.269 : testsets/01
+20-06-26 18:30:04.273 : frame000134.jpg--> ( 432x864 )

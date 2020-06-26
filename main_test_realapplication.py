@@ -65,8 +65,8 @@ def main():
 #     test_image = 'chip.png'    # 'chip.png', 'comic.png'
     # test_image = 'comic.png'
     # test_image = 'generate.png'
-    for i in '01/*':
-        test_image = i
+    for i in os.listdir('01'):
+        test_image = os.getcwd() +"/01/"+ i
 
         sf = 3                     # scale factor, only from {1, 2, 3, 4}
         show_img = False           # default: False
@@ -146,7 +146,8 @@ def main():
         logger.info('model_name:{}, image sigma:{}'.format(model_name, noise_level_img))
         logger.info(L_path)
 
-        img = os.path.join(L_path, test_image)
+        # img = os.path.join(L_path, test_image)
+        img = test_image
         # ------------------------------------
         # (1) img_L
         # ------------------------------------

@@ -148,3 +148,13 @@
 20-06-26 17:04:30.821 : model_name:usrnet, image sigma:2
 20-06-26 17:04:30.821 : testsets/set_real
 20-06-26 17:04:30.825 :     c3.png--> ( 366x367 )
+20-06-26 17:29:01.150 : Params number: 17016016
+20-06-26 17:29:01.151 : Model path: model_zoo/usrnet.pth
+20-06-26 17:29:01.151 : model_name:usrnet, image sigma:2
+20-06-26 17:29:01.152 : testsets/set_real
+20-06-26 17:29:01.168 :     c3.png--> ( 366x367 )
+20-06-26 17:29:09.432 : Params number: 17016016
+20-06-26 17:29:09.433 : Model path: model_zoo/usrnet.pth
+20-06-26 17:29:09.433 : model_name:usrnet, image sigma:2
+20-06-26 17:29:09.433 : testsets/set_real
+20-06-26 17:29:09.438 :     c3.png--> ( 366x367 )

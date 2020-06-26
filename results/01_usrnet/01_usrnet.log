@@ -1,0 +1,28 @@
+20-06-26 17:29:23.052 : Params number: 17016016
+20-06-26 17:29:23.053 : Model path: model_zoo/usrnet.pth
+20-06-26 17:29:23.053 : model_name:usrnet, image sigma:2
+20-06-26 17:29:23.053 : testsets/01
+20-06-26 17:30:24.477 : Params number: 17016016
+20-06-26 17:30:24.478 : Model path: model_zoo/usrnet.pth
+20-06-26 17:30:24.478 : model_name:usrnet, image sigma:2
+20-06-26 17:30:24.478 : testsets/01
+20-06-26 17:34:33.280 : Params number: 17016016
+20-06-26 17:34:33.282 : Model path: model_zoo/usrnet.pth
+20-06-26 17:34:33.283 : model_name:usrnet, image sigma:2
+20-06-26 17:34:33.283 : testsets/01
+20-06-26 17:35:30.095 : Params number: 17016016
+20-06-26 17:35:30.096 : Model path: model_zoo/usrnet.pth
+20-06-26 17:35:30.096 : model_name:usrnet, image sigma:2
+20-06-26 17:35:30.096 : testsets/01
+20-06-26 17:35:51.969 : Params number: 17016016
+20-06-26 17:35:51.969 : Model path: model_zoo/usrnet.pth
+20-06-26 17:35:51.969 : model_name:usrnet, image sigma:2
+20-06-26 17:35:51.969 : testsets/01
+20-06-26 17:36:00.425 : Params number: 17016016
+20-06-26 17:36:00.426 : Model path: model_zoo/usrnet.pth
+20-06-26 17:36:00.426 : model_name:usrnet, image sigma:2
+20-06-26 17:36:00.426 : testsets/01
+20-06-26 17:36:24.511 : Params number: 17016016
+20-06-26 17:36:24.512 : Model path: model_zoo/usrnet.pth
+20-06-26 17:36:24.512 : model_name:usrnet, image sigma:2
+20-06-26 17:36:24.512 : testsets/01
